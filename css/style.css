@@ -29,7 +29,7 @@ h2 {font-size:26px;line-height:1.2em;padding:17px 0 20px 0;color:#fff;font-weigh
 p {padding-bottom:20px}
 /* ============================= header ====================== */
 header {width:360px;float:left}
-#logo {display:block;text-indent:-9999px;background:url(../images/logo.png) 0 0 no-repeat;width:280px;height:153px}
+#logo {display:block;text-indent:-9999px;background:url(../images/logo.png) 0 0 no-repeat;width:350px;height:180px}
 #menu {padding-top:122px}
 #menu > li {width:100%;overflow:hidden;padding-bottom:4px}
 #menu > li > a {display:inline-block;font-size:26px;line-height:54px;height:56px;color:#fff;background:#000;text-decoration:none;position:relative;letter-spacing:0px;cursor:pointer}
