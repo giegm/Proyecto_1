@@ -773,13 +773,13 @@ a.catch-me:hover{
 	padding: 0em 2em;
 	position: absolute;
 	top: 0;
-	left: 39%;
-	min-height: 405px;
+	left: 69%;
+	min-height: 506px;
 }
 .contact-info p,.contact-info p a{
 	color: #FFF;
 	font-weight: 300;
-	font-size: 1.5em;
+	font-size: 1.4em;
 	line-height: 1.6em;
 }
 .contact-info p span{
