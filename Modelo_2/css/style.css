@@ -23,7 +23,7 @@ body a{
 }
 /*-----start-header----*/
 .header{
-	background:rgba(117, 196, 165, 0.6);
+	background:rgba(4, 49, 180, 0.6);
 }
 .logo{
 	float: left;
@@ -46,8 +46,8 @@ body a{
 }
 .top-nav ul li a{
 	color: #FFF;
-	padding:0.84em 3.06777em;
-	font-size: 1.25em;
+	padding:0.84em 1.29977em;
+	font-size: 1.3em;
 	font-weight: 400;
 	text-align: center;
 	text-transform: uppercase;
@@ -205,7 +205,7 @@ nav a#pull {
 }
 /*---- banner-grids ----*/
 .banner-grid{
-	background:rgba(114, 189, 163, 0.72);
+	background:#0431B4;
 	float:left;
 	width:20%;
 	padding:2em 2em 2.3em 2em;
@@ -325,7 +325,7 @@ nav a#pull {
 	padding:0;
 }
 .about-grid1{
-	background:#00A388;
+	background:#0431B4;
 }
 .about-grid-pic img{
 	width:100%;
@@ -1421,5 +1421,15 @@ a.contact-me:hover{
 	.team {
 		padding: 0.8em 0;
 	}
+#,
+#about,
+#port,
+#team,
+#contact {
+    color: #F48765;
+   
 }
+
+}
+
 
