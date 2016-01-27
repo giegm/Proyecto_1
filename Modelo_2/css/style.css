@@ -46,13 +46,15 @@ body a{
 }
 .top-nav ul li a{
 	color: #FFF;
-	padding:0.84em 1.29977em;
-	font-size: 1.3em;
+	padding:0.1em 1.19977em;
+	font-size: 1.4em;
 	font-weight: 400;
 	text-align: center;
 	text-transform: uppercase;
 	position: relative;
 	font-weight: 300;
+	font-family: Grotesque,"Agency FB",Arial;
+
 }
 .top-nav ul li.active-join a,
 .top-nav ul li a:hover{
