@@ -46,7 +46,7 @@ body {
 	-ms-transition:all .2s linear;
 }
 .header {
-	background:#23272a;
+	background:#0b3861;
 	padding:20px 0;
 }
 .header_top {
@@ -412,7 +412,7 @@ body {
 	border-color: rgba(255, 0, 0, 0) rgba(0, 0, 255, 0) rgba(0, 128, 0, 0) #ebebeb;
 }
 .content-bottom-right h3,.preview-page h3{
-	background:#23272a !important;
+	background:#0b3861 !important;
 	margin-bottom:10px !important;
 	padding-left:10px !important;
 }
@@ -1270,7 +1270,7 @@ body {
 	position:relative;
 }
 .mybutton:hover {
-	background: #292929;
+	background: #0b3861;
 }
 .map {
 	margin-top:1em;
