@@ -2,7 +2,7 @@
 
  if(!empty($_POST['nombre']) AND !empty($_POST['email']) AND !empty($_POST['asunto'])){
 
-$to ="giegm07@gmail.com";//MODIFICAR POR EL DE LA EMPRESA
+$to ="disbralenca@hotmail";//MODIFICAR POR EL DE LA EMPRESA
 $headers = "Content-Type: text/html; charset=iso-8859-1\n"; 
 $headers .= "From:".$_POST['nombre']."\r\n";			
 $tema="Contacto desde el Sitio Web";

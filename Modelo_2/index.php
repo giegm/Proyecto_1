@@ -14,7 +14,9 @@
 		</script>
 		<!---- animated-css ---->
 		<link href="css/animate.css" rel="stylesheet" type="text/css" media="all">
+		<link rel="stylesheet" type="text/css" href="css/progressBar.css">
 		<link rel="shortcut icon" href="images/favicon.ico" />
+		<script type="text/javascript" src="js/progressBar.js"></script>
 		<script type="text/javascript" src="js/jquery.corner.js"></script> 
 		<script src="js/wow.min.js"></script>
 		<script>
@@ -56,7 +58,7 @@
 		</script>
 		<!----//End-top-nav-script---->
 	</head>
-	<body>
+	<body BACKGROUND="fondo.png"> <!--oncontextmenu="return false" onkeydown="return false"> Codigo para bloquear el boton de click derecho.-->
 		<div class="bg">
 		<!----- start-header---->
 		<div class="container">
@@ -86,7 +88,7 @@
 			<div class="banner-info">
 				<div class="container">
 				<br><br><br><br><br><br><br>
-					<a href="index.html" class="wow fadeIn" data-wow-delay="0.5s" ><img src="images/logo.png"></a>
+					<a href="index.php" class="wow fadeIn" data-wow-delay="0.5s" ><img src="images/logo.png"></a>
 				<br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 				</div>
 			</div>
@@ -105,7 +107,7 @@
 						<div class="col-md-4 about-grid about-grid1 wow fadeInLeft" data-wow-delay="0.4s">
 							<div class="about-grid-info">
 								<h4><a href="#">Misión</a></h4>
-								<p style="text-align:justify;">DISBRALENT C.A.  es un empresa dedicada a la distribucion y comercializacion del ramo optico a nivel nacional siendo nuestro objetivo el brindar y garantizar nuestras monturas oftalmicas, equipos y demas accesorios relacionados, ofreciendo calidad e innovacion en todos nuestros productos.</p>
+								<p style="text-align:justify;"><br>DISBRALENT C.A.  es un empresa dedicada a la distribucion y comercializacion del ramo optico a nivel nacional siendo nuestro objetivo el brindar y garantizar nuestras monturas oftalmicas, equipos y demas accesorios relacionados, ofreciendo calidad e innovacion en todos nuestros productos.</p>
 							</div>
 							<div class="about-grid-pic">
 							<img src="images/about-pic1.jpg" title="" />
@@ -599,7 +601,7 @@
 				<div class="container">
 					<h4>¿Te gustaria trabajar con nosotros?</h4>
 					<p>Envía tu curriculum a nuestro correo y nosotros con gusto lo contactaremos.</p>
-					<a class="catch-me wow shake" data-wow-delay="0.3s" href="contacto.html">Contactanos</a>
+					<a class="catch-me wow shake" data-wow-delay="0.3s" href="contacto.php" target="_blank">Contactanos</a>
 				</div>
 			</div>
 			<!---- work-with-us---->
@@ -614,7 +616,7 @@
 				</div>
 				<div class="contact-info text-center wow fadeInLeft" data-wow-delay="0.3s">
 					<h4><span>DISBRALENT</span>C.A</h4>
-					<p><span class="map-icon1"> </span>Av.Urdaneta, Torre Protexo <br> Piso 3, oficina 32 <br> Urb. Altagracia</p>
+					<p><span class="map-icon1"> </span>Av.Urdaneta, Torre Protexo <br> Piso 4, oficina 41 <br> Urb. Altagracia</p>
 					<p><span class="map-icon2"> </span>disbralentca@icloud.com</p>
 					<p><span class="map-icon3"> </span>(0212) 561.14.02</p>
 					<p><span class="map-icon3"> </span>(0212) 563.05.46</p>
