@@ -211,12 +211,14 @@
 					<div class="clearfix"> </div>
 				</div>
 				<div class="container">
-					<div class="col-md-3 wow bounceIn" data-wow-delay="0.4s">
+					<div class="col-md-12 wow bounceIn" data-wow-delay="0.4s">
 						<div class="top-grid">
 							<img class="p-img" src="images/bb5.jpg" />
 							<h3><a href="#">Jornadas</a></h3>
 							<label> </label>
-							<p>DISBRALENT ofrece un servicio para tu empresa a través de operativos de atención visual. Contactanos.</p>
+							<p>DISBRALENT ofrece un servicio</p>
+							<p>de operativos de atención visual</p>
+							<P>para tu empresa. Contáctanos.</p>
 						</div>
 					</div>								
 					<div class="clearfix"> </div>
