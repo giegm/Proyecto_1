@@ -107,7 +107,7 @@
 						<div class="col-md-4 about-grid about-grid1 wow fadeInLeft" data-wow-delay="0.4s">
 							<div class="about-grid-info">
 								<h4><a href="#">Misión</a></h4>
-								<p style="text-align:justify;"><br>DISBRALENT C.A.  es un empresa dedicada a la distribucion y comercializacion del ramo optico a nivel nacional siendo nuestro objetivo el brindar y garantizar nuestras monturas oftalmicas, equipos y demas accesorios relacionados, ofreciendo calidad e innovacion en todos nuestros productos.</p>
+								<p style="text-align:justify;">DISBRALENT C.A.  es un empresa dedicada a la distribucion y comercializacion del ramo optico a nivel nacional siendo nuestro objetivo el brindar y garantizar nuestras monturas oftalmicas, equipos y demas accesorios relacionados, ofreciendo calidad e innovacion en todos nuestros productos.</p>
 							</div>
 							<div class="about-grid-pic">
 							<img src="images/about-pic1.jpg" title="" />
@@ -151,15 +151,13 @@
 				</div>
 				<div class="container">
 					<div class="process-grids text-center wow bounce" data-wow-delay="0.4s">
-						<div class="col-md-6 process-grid process-grid3 wow bounceInUp" data-wow-delay="0.4s">
-							<span class="p-icon1"> </span>									
-							<h4><a href="#">La marrón</a></h4>
-							<p>LLegate y listo</p>
+						<div class="col-md-6 wow bounceInUp" data-wow-delay="0.4s">														
+							<img src="images/marron.jpg" style="align:center;"/>
+							<h4> Esquina La Marrón, Centro Comercial Doral, Piso #. Caracas, Distrito Capital.</h4>
 						</div>
-						<div class="col-md-6 process-grid process-grid4 wow bounceInDown" data-wow-delay="0.4s">
-							<span class="p-icon4"> </span>
+						<div class="col-md-6 process-grid process-grid4 wow bounceInDown" data-wow-delay="0.4s">							
 							<h4><a href="#">Esq. Salas</a></h4>
-							<p>Vente pa' ca </p>
+							<h4>Esquina de Salas, Avenida Norte 4, Caracas. Distrito Capital.</h4>
 						</div>
 						<div class="clearfix"> </div>
 					</div>
