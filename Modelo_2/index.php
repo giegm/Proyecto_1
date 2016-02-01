@@ -58,7 +58,7 @@
 		</script>
 		<!----//End-top-nav-script---->
 	</head>
-	<body BACKGROUND="fondo.png"> <!--oncontextmenu="return false" onkeydown="return false"> Codigo para bloquear el boton de click derecho.-->
+	<body background="fondo.png"> <!--oncontextmenu="return false" onkeydown="return false"> Codigo para bloquear el boton de click derecho.-->
 		<div class="bg">
 		<!----- start-header---->
 		<div class="container">
@@ -106,7 +106,7 @@
 					<div class="about-grids">
 						<div class="col-md-4 about-grid about-grid1 wow fadeInLeft" data-wow-delay="0.4s">
 							<div class="about-grid-info">
-								<h4><a href="#">Misión</a></h4>
+								<h4><a href="#">Misión</a></h4><br>
 								<p style="text-align:justify;">DISBRALENT C.A.  es un empresa dedicada a la distribucion y comercializacion del ramo optico a nivel nacional siendo nuestro objetivo el brindar y garantizar nuestras monturas oftalmicas, equipos y demas accesorios relacionados, ofreciendo calidad e innovacion en todos nuestros productos.</p>
 							</div>
 							<div class="about-grid-pic">
@@ -129,7 +129,7 @@
 						<div class="col-md-4 about-grid about-grid1 wow fadeInRight" data-wow-delay="0.4s">
 							<div class="about-grid-info">
 								<h4><a href="#">Visión</a></h4>
-								<p style="text-align:justify;">DISBRALENT, C.A.  es un empresa vanguardista donde lo mas importante  es la atencion y exigencia de nuestros clientes, por esta razon estamos orientados en todo momento a lograr colocar en sus manos productos de alta calidad, presentacion, modernismo y la exclusividad que usted se merece.</p>
+								<p style="text-align:justify;">DISBRALENT C.A.  es un empresa vanguardista donde lo mas importante  es la atencion y exigencia de nuestros clientes, por esta razon estamos orientados en todo momento a lograr colocar en sus manos productos de alta calidad, presentacion, modernismo y la exclusividad que usted se merece.</p>
 							</div>
 							<div class="about-grid-pic">
 							<img src="images/about-pic3.jpg" title="" />
