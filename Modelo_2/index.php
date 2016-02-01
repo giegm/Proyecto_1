@@ -628,9 +628,13 @@
 				<div class="contact-info text-center wow fadeInLeft" data-wow-delay="0.3s">
 					<h4><span>DISBRALENT</span>C.A</h4>
 					<p><span class="map-icon1"> </span>Av.Urdaneta, Torre Protexo <br> Piso 4, oficina 41 <br> Urb. Altagracia</p>
-					<p><span class="map-icon2"> </span>disbralentca@icloud.com</p>
+					<p><span class="map-icon2"> </span>disbralentca@hotmail.com</p>
 					<p><span class="map-icon3"> </span>(0212) 561.14.02</p>
 					<p><span class="map-icon3"> </span>(0212) 563.05.46</p>
+					Siguenos en nuestra Redes Sociales<br>
+					<a href="https://www.facebook.com/DISBRALENT-CA-121695221186438/?fref=ts" target="_blank"><img alt="siguenos en facebook" height="32" src="images/face.png" title="siguenos en facebook" width="32" /></a>
+					<a href="https://twitter.com/disbralentca" target="_blank"><img alt="siguenos en Twitter" height="32" src="images/Twitter.png" title="siguenos en Twitter" width="32" /></a>
+					<a href="https://www.instagram.com/disbralentca/" target="_blank"><img alt="sígueme en Instagram" height="32" src="images/instagram.png" title="sígueme en Instagram" width="32" /></a>
 				</div>
 			</div>
 			<!---- map ---->
@@ -641,7 +645,6 @@
 					<div class="footer-inner wow zoomIn" data-wow-delay="0.3s">
 						<ul>
 							<a href="#"><img width="213" heigth="142" src="images/Disbralent-C-A-_44862.jpg" title="logo empresa"/></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<li><a href="#"><img src="images/footer-logo.png" title="footer-logo"/></a></li>
-
 						</ul>
 					</div>
 					<script type="text/javascript">
@@ -660,7 +663,7 @@
 									});
 								</script>
 				<a href="#" id="toTop" style="display: block;"> <span id="toTopHover" style="opacity: 1;"> </span></a>
-				</div>
+				</div>		
 			</div>
 			<!---- footer --->
 		</div>
