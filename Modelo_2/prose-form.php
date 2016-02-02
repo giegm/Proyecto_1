@@ -1,34 +1,45 @@
  <?php
 
- if(!empty($_POST['nombre']) AND !empty($_POST['email']) AND !empty($_POST['asunto'])){
+@$nombre = addslashes($_POST['nombre']);
+@$email = addslashes($_POST['email']);
+@$asunto = addslashes($_POST['asunto']);
+@$mensaje = addslashes($_POST['mensaje']);
 
-$to ="disbralenca@hotmail.com";//MODIFICAR POR EL DE LA EMPRESA
-$headers = "Content-Type: text/html; charset=iso-8859-1\n"; 
-$headers .= "From:".$_POST['nombre']."\r\n";			
-$tema="Contacto desde el Sitio Web";
-$mensaje="
-<table border='0' cellspacing='2' cellpadding='2'>
+$to="giegm_0507@hotmail.com";//MODIFICAR POR EL DE LA EMPRESA
+$nombre= "De:$nombre";
+$email= "Correo: $email";
+$asunto= "Asunto $asunto";
+$mensaje= "Mensaje: $mensaje";
+
+/*<table border='0' cellspacing='2' cellpadding='2'>
   <tr>
     <td width='20%' align='center' bgcolor='#FFFFCC'><strong>Nombre:</strong></td>
-    <td width='80%' align='left'>$_POST[nombre]</td>
+    <td width='80%' align='left'>$nombre</td>
   </tr>
   <tr>
     <td align='center' bgcolor='#FFFFCC'><strong>E-mail:</strong></td>
-    <td align='left'>$_POST[email]</td>
+    <td align='left'>$email</td>
   </tr>
    <tr>
-    <td width='20%' align='center' bgcolor='#FFFFCC'><strong>Asunto</strong></td>
-    <td width='80%' align='left'>$_POST[asunto]</td>
+    <td width='20%' align='center' bgcolor='#FFFFCC'><strong>Asunto:</strong></td>
+    <td width='80%' align='left'>$asunto</td>
   </tr>
   <tr>
-    <td align='center' bgcolor='#FFFFCC'><strong>Comentario:</strong></td>
-    <td align='left'>$_POST[mensaje]</td>
+    <td align='center' bgcolor='#FFFFCC'><strong>Mensaje:</strong></td>
+    <td align='left'>$mensaje</td>
   </tr>
-</table>
-";
-@mail($to,$tema,$mensaje,$headers); 
-echo "<META HTTP-EQUIV=\"Refresh\" CONTENT=\"0;URL=http://localhost/proyecto_1/Modelo_2/index.html\">"; //MODIFICAR A LA HORA DE MONTAR EN LA WEB
+</table>*/
+"\n";
+"Nombre: $nombre\n";
+"Email: $email\n";
+"Aunto: $asunto\n";
+"Mensaje: $mensaje\n";
+"\n";
+
+if (@mail ($to,$asunto,$mensaje,$nombre)){ 
+
+die ("<script languaje='Javascript'>alert('Mensaje enviado correctamente');</script>");
 } else {
-	echo "No se puede enviar el formulario, verifica los campos";
+die ("<script languaje='Javascript'>alert('Su mensaje no pudo ser enviado');</script>");
 }
 ?>

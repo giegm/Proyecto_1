@@ -58,7 +58,7 @@
 		</script>
 		<!----//End-top-nav-script---->
 	</head>
-	<body background="fondo.png"> <!--oncontextmenu="return false" onkeydown="return false"> Codigo para bloquear el boton de click derecho.-->
+	<body> <!--oncontextmenu="return false" onkeydown="return false"> Codigo para bloquear el boton de click derecho.-->
 		<div class="bg">
 		<!----- start-header---->
 		<div class="container">

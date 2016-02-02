@@ -1,7 +1,7 @@
 body {
-	background: #888;
+	background: #ffffff;
 	font: 14px/1.6 'Helvetica Neue', Helvetica, Arial, sans-serif;
-	color: #ccc;
+	color: #ff6138;
 }
 section {
 	width: 1000px;
@@ -31,8 +31,8 @@ section {
 	position: relative;
 }
 .error{
-	background: #ff9197;
-	border: 5px solid red;
+	background: #FDF3F3;
+	border: 2px solid red;
 }
 textarea.form-input {
 	height: 200px;

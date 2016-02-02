@@ -1,7 +1,7 @@
 <!DOCTYPE HTML>
 <html lang="es">
 <head>
-	<title>DISBRALENT C.A.</title>
+	<title>DISBRALENT C.A. | Contacto</title>
 	<link href="css/bootstrap.css" rel='stylesheet' type='text/css' />
 	<script src="js/jquery.min.js"></script>
 	<link href="css/style.css" rel='stylesheet' type='text/css' />
@@ -21,32 +21,30 @@
 <body>
 	<section>
 		<h2>Formulario de Contacto</h2>
-	
-		<form action="prose-form.php" method="post" class="contact-form"  onsubmit="return validar(this);">				
+		<form action="enviar-form.php" method="post" class="contact-form"  onsubmit="return validar(this);">				
 			<div class="formulario">
 				<div class="column">
 					<label for="nombre">Nombre <span>(requerido)</span></label>
-					<input type="text" name="nombre" class="form-input" onblur="revisar(this);"/>
+					<input type="text" name="nombre" id="nombre" class="form-input" onblur="revisar(this);"/>
 					
 					<label for="email">Email <span>(requerido)</span></label>
-					<input type="email" name="email" class="form-input" onblur="revisar(this); revisaremail(this);"/>
+					<input type="email" name="email" id="email" class="form-input" onblur="revisar(this); revisaremail(this);"/>
 					
 					<label for="asunto">Asunto <span>(requerido)</span></label>
-					<input type="text" name="asunto" class="form-input" onblur="revisar(this);"/>
+					<input type="text" name="asunto" id="asunto" class="form-input" onblur="revisar(this);"/>
 
 					<label for="adjunto">Adjunte su archivo</label>
-					<input type="file" name="adjunto" />
+					<input type="file" name="adjunto" id="adjunto" />
 				</div>
 				
 				<div class="column">
 					<label for="mensaje">Mensaje </label>
-					<textarea name="mensaje" class="form-input" ></textarea>
+					<textarea name="mensaje" id="mensaje" class="form-input" onblur="revisar(this);"></textarea>
 				</div>				
-				
-				<input class="form-btn" type="submit" value="Enviar Mensaje"/>
+				<input class="btn btn-danger" type="button" value="Cancelar" onclick="window.close()"/>
+				<input class="btn btn-primary" type="submit" value="Enviar Mensaje"/>
 			</div>		
 		</form>
 	</section>
-	
 </body>
 </html>
