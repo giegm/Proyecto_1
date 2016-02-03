@@ -20,26 +20,29 @@
 </head>
 <body>
 	<section>
-		<h2>Formulario de Contacto</h2>
+		<h2>Contacto</h2>
 		<form action="enviar-form.php" method="post" class="contact-form"  onsubmit="return validar(this);">				
 			<div class="formulario">
 				<div class="column">
 					<label for="nombre">Nombre <span>(requerido)</span></label>
-					<input type="text" name="nombre" id="nombre" class="form-input" onblur="revisar(this);"/>
+					<input type="text" name="nombre" id="nombre" maxlength="30" placeholder="Ingrese su nombre" class="form-input" onblur="revisar(this);"/>
 					
 					<label for="email">Email <span>(requerido)</span></label>
-					<input type="email" name="email" id="email" class="form-input" onblur="revisar(this); revisaremail(this);"/>
+					<input type="email" name="email" id="email" maxlength="30" placeholder="Ingrese su correo" class="form-input" onblur="revisar(this); revisaremail(this);"/>
 					
 					<label for="asunto">Asunto <span>(requerido)</span></label>
-					<input type="text" name="asunto" id="asunto" class="form-input" onblur="revisar(this);"/>
+					<input type="text" name="asunto" id="asunto" maxlength="30" placeholder="Ingrese un asunto" class="form-input" onblur="revisar(this);"/>
 
 					<label for="adjunto">Adjunte su archivo</label>
-					<input type="file" name="adjunto" id="adjunto" />
+					<input type="file" name="adjunto" id="adjunto"/>
+					<?php
+
+					?>
 				</div>
 				
 				<div class="column">
 					<label for="mensaje">Mensaje </label>
-					<textarea name="mensaje" id="mensaje" class="form-input" onblur="revisar(this);"></textarea>
+					<textarea name="mensaje" id="mensaje" maxlength="100" placeholder="Ingrese un mensaje" class="form-input" onblur="revisar(this);"></textarea>
 				</div>				
 				<input class="btn btn-danger" type="button" value="Cancelar" onclick="window.close()"/>
 				<input class="btn btn-primary" type="submit" value="Enviar Mensaje"/>

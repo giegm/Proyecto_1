@@ -36,7 +36,7 @@
 		</script>
 		 <!---- start-smoth-scrolling---->
 		<!----webfonts--->
-		<link href='//fonts.googleapis.com/css?family=Roboto:400,100,300,500,700,900' rel='stylesheet' type='text/css'>
+		<link href='font/font.css' rel='stylesheet' type='text/css'>
 		<!---//webfonts--->
 		<!----start-top-nav-script---->
 		<script>
@@ -106,7 +106,7 @@
 					<div class="about-grids">
 						<div class="col-md-4 about-grid about-grid1 wow fadeInLeft" data-wow-delay="0.4s">
 							<div class="about-grid-info">
-								<h4><a href="#">Misión</a></h4><br>
+								<h4><a href="#">Misión</a></h4>
 								<p style="text-align:justify;">DISBRALENT C.A.  es un empresa dedicada a la distribucion y comercializacion del ramo optico a nivel nacional siendo nuestro objetivo el brindar y garantizar nuestras monturas oftalmicas, equipos y demas accesorios relacionados, ofreciendo calidad e innovacion en todos nuestros productos.</p>
 							</div>
 							<div class="about-grid-pic">
@@ -622,7 +622,6 @@
 			<!---- map ---->
 			<div id="contact" class="map">
 				<div class="map-location">
-					
 					<iframe frameborder="0" scrolling="no" marginheight="0" marginwidth="0"width="1000" height="500" src="https://www.google.com/maps/embed/v1/place?q=Edificio+PROTEXO,+Av.+Urdaneta+ruta&key=AIzaSyAN0om9mFmy1QN6Wf54tXAowK4eT0ZUPrU"></iframe>
 				</div>
 				<div class="contact-info text-center wow fadeInLeft" data-wow-delay="0.3s">
@@ -631,7 +630,7 @@
 					<p><span class="map-icon2"> </span>disbralentca@hotmail.com</p>
 					<p><span class="map-icon3"> </span>(0212) 561.14.02</p>
 					<p><span class="map-icon3"> </span>(0212) 563.05.46</p>
-					Siguenos en nuestra Redes Sociales<br>
+					Siguenos<br>
 					<a href="https://www.facebook.com/DISBRALENT-CA-121695221186438/?fref=ts" target="_blank"><img alt="siguenos en facebook" height="32" src="images/face.png" title="siguenos en facebook" width="32" /></a>
 					<a href="https://twitter.com/disbralentca" target="_blank"><img alt="siguenos en Twitter" height="32" src="images/Twitter.png" title="siguenos en Twitter" width="32" /></a>
 					<a href="https://www.instagram.com/disbralentca/" target="_blank"><img alt="sígueme en Instagram" height="32" src="images/instagram.png" title="sígueme en Instagram" width="32" /></a>

@@ -447,7 +447,8 @@ h1,
 }
 h2,
 .h2 {
-  font-size: 30px;
+  font-size: 60px;
+  font-family: Grotesque,"Agency FB",Arial;
 }
 h3,
 .h3 {
