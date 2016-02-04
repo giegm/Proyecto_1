@@ -203,18 +203,18 @@
 											<div class="col1">
 												<h2>Categorias</h2>
 												<ul class="nav">
-													<li class="selected"><a href="#Fashion"><span></span><strong>Daisy-Fuentes</strong></a></li>
-													<li><a href="#Objects"><span></span><strong>Cadillac</strong></a></li>
-													<li><a href="#Wedding"><span></span><strong>Dicaprio</strong></a></li>
-													<li><a href="#Reportage"><span></span><strong>Shopia Loren</strong></a></li>
-													<li><a href="#Advertising"><span></span><strong>Everlast</strong></a></li>
-													<li><a href="#Portrait"><span></span><strong>Coleman</strong></a></li>
+													<li class="selected"><a href="#Fashion1"><span></span><strong>Daisy-Fuentes</strong></a></li>
+													<li><a href="#Objects2"><span></span><strong>Cadillac</strong></a></li>
+													<li><a href="#Wedding2"><span></span><strong>Dicaprio</strong></a></li>
+													<li><a href="#Reportage2"><span></span><strong>Shopia Loren</strong></a></li>
+													<li><a href="#Advertising2"><span></span><strong>Everlast</strong></a></li>
+													<li><a href="#Portrait2"><span></span><strong>Coleman</strong></a></li>
 													<li><a href="#Jackson"><span></span><strong>Randy Jackson</strong></a></li>
 
 												</ul>
 											</div>
 												<div class="col2 pad_left1">
-												<div class="tab-content" id="Fashion">
+												<div class="tab-content" id="Fashion1">
 													<h2>Daisy Fuentes</h2>
 													<div class="wrapper">
 														<figure class="left marg_right1"><a href="images/grandes/daisy1.jpg" class="lightbox-image" data-type="prettyPhoto[group2]"><span></span><img src="images/pequenias/daisy1.jpg" alt=""></a></figure>
@@ -237,7 +237,7 @@
 														<figure class="left"><a href="images/big_img10.jpg" class="lightbox-image" data-type="prettyPhoto[group2]"><span></span><img src="images/page3_img10.jpg" alt=""></a></figure>
 													</div>
 												</div>
-												<div class="tab-content" id="Objects">
+												<div class="tab-content" id="Objects2">
 
 
 													<h2>Cadillac</h2>
@@ -262,7 +262,7 @@
 														<figure class="left"><a href="images/big_img2.jpg" class="lightbox-image" data-type="prettyPhoto[group1]"><span></span><img src="images/page3_img2.jpg" alt=""></a></figure>
 													</div>
 												</div>
-												<div class="tab-content" id="Wedding">
+												<div class="tab-content" id="Wedding2">
 													<h2>Dicaprio</h2>
 													<div class="wrapper">
 														<figure class="left marg_right1"><a href="images/big_img5.jpg" class="lightbox-image" data-type="prettyPhoto[group3]"><span></span><img src="images/page3_img5.jpg" alt=""></a></figure>
@@ -285,7 +285,7 @@
 														<figure class="left"><a href="images/big_img4.jpg" class="lightbox-image" data-type="prettyPhoto[group3]"><span></span><img src="images/page3_img4.jpg" alt=""></a></figure>
 													</div>
 												</div>
-												<div class="tab-content" id="Reportage">
+												<div class="tab-content" id="Reportage2">
 													<h2>Shopia</h2>
 													<div class="wrapper">
 														<figure class="left marg_right1"><a href="images/big_img7.jpg" class="lightbox-image" data-type="prettyPhoto[group4]"><span></span><img src="images/page3_img7.jpg" alt=""></a></figure>
@@ -308,7 +308,7 @@
 														<figure class="left"><a href="images/big_img6.jpg" class="lightbox-image" data-type="prettyPhoto[group4]"><span></span><img src="images/page3_img6.jpg" alt=""></a></figure>
 													</div>
 												</div>
-												<div class="tab-content" id="Advertising">
+												<div class="tab-content" id="Advertising2">
 													<h2>Everlast</h2>
 													<div class="wrapper">
 														<figure class="left marg_right1"><a href="images/big_img9.jpg" class="lightbox-image" data-type="prettyPhoto[group5]"><span></span><img src="images/page3_img9.jpg" alt=""></a></figure>
@@ -331,7 +331,7 @@
 														<figure class="left"><a href="images/big_img8.jpg" class="lightbox-image" data-type="prettyPhoto[group5]"><span></span><img src="images/page3_img8.jpg" alt=""></a></figure>
 													</div>
 												</div>
-												<div class="tab-content" id="Portrait">
+												<div class="tab-content" id="Portrait2">
 													<h2>Coleman</h2>
 													<div class="wrapper">
 														<figure class="left marg_right1"><a href="images/big_img9.jpg" class="lightbox-image" data-type="prettyPhoto[group5]"><span></span><img src="images/page3_img9.jpg" alt=""></a></figure>
