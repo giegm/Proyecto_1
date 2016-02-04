@@ -15,7 +15,7 @@
 		<!---- animated-css ---->
 		<link href="css/animate.css" rel="stylesheet" type="text/css" media="all">
 		<link rel="stylesheet" type="text/css" href="css/progressBar.css">
-		<link rel="shortcut icon" href="images/favicon.ico" />
+		<link rel="shortcut icon" href="images/iconos/favicon.ico" />
 		<script type="text/javascript" src="js/progressBar.js"></script>
 		<script type="text/javascript" src="js/jquery.corner.js"></script> 
 		<script src="js/wow.min.js"></script>
@@ -337,7 +337,7 @@
 										<div class="tab_img">
 												<div class="col-md-4 img-top ">
 												  	<a data-toggle="modal" data-target=".bs-example-modal-md" href="#" class="b-link-stripe b-animate-go  thickbox">
-															 <img class="p-img" src="images/portpic1.jpg" /><div class="b-wrapper">
+															 <img class="p-img" src="images/marcas/sunglasses/cadillac_muestra.jpg" /><div class="b-wrapper">
 																<h2 class="b-animate b-from-left    b-delay03 ">
 																	<div class="caption">
 															<h4>heading of project</h4>
@@ -348,7 +348,7 @@
 												</div>
 												<div class="col-md-4 img-top ">
 												   <a data-toggle="modal" data-target=".bs-example-modal-md" href="#" class="b-link-stripe b-animate-go  thickbox">
-													 <img class="p-img" src="images/portpic2.jpg" /><div class="b-wrapper">
+													 <img class="p-img" src="images/marcas/daisy_fuentes.jpg" /><div class="b-wrapper">
 														<h2 class="b-animate b-from-left    b-delay03 ">
 															<div class="caption">
 															<h4>heading of project</h4>
@@ -359,7 +359,7 @@
 												</div>
 												<div class="col-md-4 img-top">
 												  <a data-toggle="modal" data-target=".bs-example-modal-md" href="#" class="b-link-stripe b-animate-go  thickbox">
-												 <img class="p-img" src="images/portpic3.jpg" /><div class="b-wrapper">
+												 <img class="p-img" src="images/marcas/sunglasses/coleman_muestra.jpg" /><div class="b-wrapper">
 													<h2 class="b-animate b-from-left    b-delay03 ">
 														<div class="caption">
 															<h4>heading of project</h4>
@@ -370,7 +370,7 @@
 												</div>
 												<div class="col-md-4 img-top ">
 												 <a data-toggle="modal" data-target=".bs-example-modal-md" href="#" class="b-link-stripe b-animate-go  thickbox">
-												 <img class="p-img" src="images/portpic4.jpg" /><div class="b-wrapper">
+												 <img class="p-img" src="images/marcas/everlast_logo.jpg" /><div class="b-wrapper">
 													<h2 class="b-animate b-from-left    b-delay03 ">
 														<div class="caption">
 															<h4>heading of project</h4>
@@ -381,7 +381,7 @@
 												</div>
 												<div class="col-md-4 img-top ">
 												  <a data-toggle="modal" data-target=".bs-example-modal-md" href="#" class="b-link-stripe b-animate-go  thickbox">
-													 <img class="p-img" src="images/portpic5.jpg" /><div class="b-wrapper">
+													 <img class="p-img" src="images/marcas/sunglasses/daisyF_muestra.jpg" /><div class="b-wrapper">
 														<h2 class="b-animate b-from-left    b-delay03 ">
 															<div class="caption">
 															<h4>heading of project</h4>
@@ -392,7 +392,7 @@
 												</div>
 												<div class="col-md-4 img-top">
 												  <a data-toggle="modal" data-target=".bs-example-modal-md" href="#" class="b-link-stripe b-animate-go  thickbox">
-													 <img class="p-img" src="images/portpic7.jpg" /><div class="b-wrapper">
+													 <img class="p-img" src="images/marcas/proRx.jpg" /><div class="b-wrapper">
 														<h2 class="b-animate b-from-left    b-delay03 ">
 														<div class="caption">
 															<h4>heading of project</h4>
@@ -403,7 +403,7 @@
 												</div>
 												<div class="col-md-4 img-top ">
 												   <a data-toggle="modal" data-target=".bs-example-modal-md" href="#" class="b-link-stripe b-animate-go  thickbox">
-													 <img class="p-img" src="images/portpic8.jpg" /><div class="b-wrapper">
+													 <img class="p-img" src="images/marcas/cadillac.jpg" /><div class="b-wrapper">
 														<h2 class="b-animate b-from-left    b-delay03 ">
 															<div class="caption">
 															<h4>heading of project</h4>
@@ -414,7 +414,7 @@
 												</div>
 												<div class="col-md-4 img-top ">
 												 <a data-toggle="modal" data-target=".bs-example-modal-md" href="#" class="b-link-stripe b-animate-go  thickbox">
-													 <img class="p-img" src="images/portpic9.jpg" /><div class="b-wrapper">
+													 <img class="p-img" src="images/marcas/sunglasses/everlast_muestra.jpg" /><div class="b-wrapper">
 														<h2 class="b-animate b-from-left    b-delay03 ">
 															<div class="caption">
 															<h4>heading of project</h4>
@@ -425,7 +425,7 @@
 												</div>
 												<div class="col-md-4 img-top ">
 												   <a data-toggle="modal" data-target=".bs-example-modal-md" href="#" class="b-link-stripe b-animate-go  thickbox">
-													 <img class="p-img" src="images/portpic2.jpg" /><div class="b-wrapper">
+													 <img class="p-img" src="images/marcas/coleman.jpg" /><div class="b-wrapper">
 														<h2 class="b-animate b-from-left    b-delay03 ">
 															<div class="caption">
 															<h4>heading of project</h4>
@@ -443,7 +443,7 @@
 										<div class="tab_img">
 												<div class="col-md-4 img-top">
 												  <a data-toggle="modal" data-target=".bs-example-modal-md" href="#" class="b-link-stripe b-animate-go  thickbox">
-												 <img class="p-img" src="images/portpic4.jpg" /><div class="b-wrapper">
+												 <img class="p-img" src="images/marcas/sophialoren.jpg" /><div class="b-wrapper">
 													<h2 class="b-animate b-from-left    b-delay03 ">
 														<div class="caption">
 															<h4>heading of project</h4>
@@ -454,7 +454,7 @@
 												</div>
 												<div class="col-md-4 img-top">
 												  <a data-toggle="modal" data-target=".bs-example-modal-md" href="#" class="b-link-stripe b-animate-go  thickbox">
-												 <img class="p-img" src="images/portpic5.jpg" /><div class="b-wrapper">
+												 <img class="p-img" src="images/marcas/eyerwear/CadEye300.jpg" /><div class="b-wrapper">
 													<h2 class="b-animate b-from-left    b-delay03 ">
 														<div class="caption">
 															<h4>heading of project</h4>
@@ -465,7 +465,7 @@
 												</div>										
 												<div class="col-md-4 img-top">
 												  <a data-toggle="modal" data-target=".bs-example-modal-md" href="#" class="b-link-stripe b-animate-go  thickbox">
-												 <img class="p-img" src="images/portpic7.jpg" /><div class="b-wrapper">
+												 <img class="p-img" src="images/marcas/dicaprio.jpg" /><div class="b-wrapper">
 													<h2 class="b-animate b-from-left    b-delay03 ">
 														<div class="caption">
 															<h4>heading of project</h4>
@@ -476,7 +476,7 @@
 												</div>
 												<div class="col-md-4 img-top">
 												  <a data-toggle="modal" data-target=".bs-example-modal-md" href="#" class="b-link-stripe b-animate-go  thickbox">
-												 <img class="p-img" src="images/portpic8.jpg" /><div class="b-wrapper">
+												 <img class="p-img" src="images/marcas/eyerwear/sophialoren_muestra.jpg" /><div class="b-wrapper">
 													<h2 class="b-animate b-from-left    b-delay03 ">
 														<div class="caption">
 															<h4>heading of project</h4>
@@ -487,7 +487,7 @@
 												</div>
 												<div class="col-md-4 img-top">
 												  <a data-toggle="modal" data-target=".bs-example-modal-md" href="#" class="b-link-stripe b-animate-go  thickbox">
-												 <img class="p-img" src="images/portpic6.jpg" /><div class="b-wrapper">
+												 <img class="p-img" src="images/marcas/cadillac.jpg" /><div class="b-wrapper">
 													<h2 class="b-animate b-from-left    b-delay03 ">
 														<div class="caption">
 															<h4>heading of project</h4>
@@ -498,7 +498,7 @@
 												</div>										
 												<div class="col-md-4 img-top">
 												  <a data-toggle="modal" data-target=".bs-example-modal-md" href="#" class="b-link-stripe b-animate-go  thickbox">
-												 <img class="p-img" src="images/portpic2.jpg" /><div class="b-wrapper">
+												 <img class="p-img" src="images/marcas/everlast_logo.jpg" /><div class="b-wrapper">
 													<h2 class="b-animate b-from-left    b-delay03 ">
 														<div class="caption">
 															<h4>heading of project</h4>
@@ -509,7 +509,7 @@
 												</div>
 												<div class="col-md-4 img-top">
 												  <a data-toggle="modal" data-target=".bs-example-modal-md" href="#" class="b-link-stripe b-animate-go  thickbox">
-												 <img class="p-img" src="images/portpic4.jpg" /><div class="b-wrapper">
+												 <img class="p-img" src="images/marcas/daisy_fuentes.jpg" /><div class="b-wrapper">
 													<h2 class="b-animate b-from-left    b-delay03 ">
 														<div class="caption">
 															<h4>heading of project</h4>
@@ -520,7 +520,7 @@
 												</div>
 												<div class="col-md-4 img-top">
 												  <a data-toggle="modal" data-target=".bs-example-modal-md" href="#" class="b-link-stripe b-animate-go  thickbox">
-												 <img class="p-img" src="images/portpic6.jpg" /><div class="b-wrapper">
+												 <img class="p-img" src="images/marcas/eyerwear/Randy-Jackson-nuestra.jpg" /><div class="b-wrapper">
 													<h2 class="b-animate b-from-left    b-delay03 ">
 														<div class="caption">
 															<h4>heading of project</h4>
@@ -531,7 +531,7 @@
 												</div>								
 												<div class="col-md-4 img-top">
 												  <a data-toggle="modal" data-target=".bs-example-modal-md" href="#" class="b-link-stripe b-animate-go  thickbox">
-												    <img class="p-img" src="images/portpic7.jpg" /><div class="b-wrapper">
+												    <img class="p-img" src="images/marcas/coleman.jpg" /><div class="b-wrapper">
 													<h2 class="b-animate b-from-left    b-delay03 ">
 														<div class="caption">
 															<h4>heading of project</h4>
@@ -631,9 +631,9 @@
 					<p><span class="map-icon3"> </span>(0212) 561.14.02</p>
 					<p><span class="map-icon3"> </span>(0212) 563.05.46</p>
 					Siguenos<br>
-					<a href="https://www.facebook.com/DISBRALENT-CA-121695221186438/?fref=ts" target="_blank"><img alt="siguenos en facebook" height="32" src="images/face.png" title="siguenos en facebook" width="32" /></a>
-					<a href="https://twitter.com/disbralentca" target="_blank"><img alt="siguenos en Twitter" height="32" src="images/Twitter.png" title="siguenos en Twitter" width="32" /></a>
-					<a href="https://www.instagram.com/disbralentca/" target="_blank"><img alt="sígueme en Instagram" height="32" src="images/instagram.png" title="sígueme en Instagram" width="32" /></a>
+					<a href="https://www.facebook.com/DISBRALENT-CA-121695221186438/?fref=ts" target="_blank"><img alt="siguenos en facebook" height="32" src="images/iconos/face.png" title="siguenos en facebook" width="32" /></a>
+					<a href="https://twitter.com/disbralentca" target="_blank"><img alt="siguenos en Twitter" height="32" src="images/iconos/Twitter.png" title="siguenos en Twitter" width="32" /></a>
+					<a href="https://www.instagram.com/disbralentca/" target="_blank"><img alt="sígueme en Instagram" height="32" src="images/iconos/instagram.png" title="sígueme en Instagram" width="32" /></a>
 				</div>
 			</div>
 			<!---- map ---->
@@ -643,7 +643,7 @@
 				<div class="container">
 					<div class="footer-inner wow zoomIn" data-wow-delay="0.3s">
 						<ul>
-							<a href="#"><img width="213" heigth="142" src="images/Disbralent-C-A-_44862.jpg" title="logo empresa"/></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<li><a href="#"><img src="images/footer-logo.png" title="footer-logo"/></a></li>
+							<a href="#"><img width="213" heigth="142" src="images/iconos/Disbralent-C-A-_44862.jpg" title="logo empresa"/></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<li><a href="#"><img src="images/footer-logo.png" title="footer-logo"/></a></li>
 						</ul>
 					</div>
 					<script type="text/javascript">
@@ -662,6 +662,8 @@
 									});
 								</script>
 				<a href="#" id="toTop" style="display: block;"> <span id="toTopHover" style="opacity: 1;"> </span></a>
+				<br>
+				Derechos reservados&copy; 2016.&nbsp;&nbsp;&nbsp;&nbsp; Diseñado por: <a href="#">E&I</a>
 				</div>		
 			</div>
 			<!---- footer --->
