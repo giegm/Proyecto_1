@@ -66,9 +66,8 @@
 													<li class="selected"><a href="#Fashion"><span></span><strong>Daisy-Fuentes</strong></a></li>
 													<li><a href="#Objects"><span></span><strong>Cadillac</strong></a></li>
 													<li><a href="#Wedding"><span></span><strong>Dicaprio</strong></a></li>
-													<li><a href="#Reportage"><span></span><strong>Reportage</strong></a></li>
-													<li><a href="#Advertising"><span></span><strong>Advertising</strong></a></li>
-													<li><a href="#Portrait"><span></span><strong>Portrait</strong></a></li>
+													<li><a href="#Reportage"><span></span><strong>Coleman</strong></a></li>
+													<li><a href="#Advertising"><span></span><strong>Everlast</strong></a></li>
 												</ul>
 											</div>
 											<div class="col2 pad_left1">
@@ -77,10 +76,10 @@
 													<div class="wrapper">
 														<figure class="left marg_right1"><a href="images/grandes/daisy1.jpg" class="lightbox-image" data-type="prettyPhoto[group2]"><span></span><img src="images/pequenias/daisy1.jpg" alt=""></a></figure>
 														<figure class="left marg_right1"><a href="images/grandes/daisy2.jpg" class="lightbox-image" data-type="prettyPhoto[group2]"><span></span><img src="images/pequenias/daisy2.jpg" alt=""></a></figure>
-														<figure class="left"><a href="images/grandes/daisy3.jpg" class="lightbox-image" data-type="prettyPhoto[group2]"><span></span><img src="images/pequenias/daisy3.jpg" alt=""></a></figure>
 													</div>
 													<div class="wrapper">
-														<figure class="left"><a href="images/grandes/daisy4.jpg" class="lightbox-image" data-type="prettyPhoto[group2]"><span></span><img src="images/pequenias/daisy4.jpg" alt=""></a></figure>
+														<figure class="left marg_right1"><a href="images/grandes/daisy3.jpg" class="lightbox-image" data-type="prettyPhoto[group2]"><span></span><img src="images/pequenias/daisy3.jpg" alt=""></a></figure>
+														<figure class="left marg_right1"><a href="images/grandes/daisy4.jpg" class="lightbox-image" data-type="prettyPhoto[group2]"><span></span><img src="images/pequenias/daisy4.jpg" alt=""></a></figure>
 													</div>
 													<div class="wrapper">
 														<figure class="left marg_right1"><a href="images/big_img5.jpg" class="lightbox-image" data-type="prettyPhoto[group2]"><span></span><img src="images/page3_img5.jpg" alt=""></a></figure>
@@ -144,7 +143,7 @@
 													</div>
 												</div>
 												<div class="tab-content" id="Reportage">
-													<h2>Reportage</h2>
+													<h2>Coleman</h2>
 													<div class="wrapper">
 														<figure class="left marg_right1"><a href="images/big_img7.jpg" class="lightbox-image" data-type="prettyPhoto[group4]"><span></span><img src="images/page3_img7.jpg" alt=""></a></figure>
 														<figure class="left"><a href="images/big_img8.jpg" class="lightbox-image" data-type="prettyPhoto[group4]"><span></span><img src="images/page3_img8.jpg" alt=""></a></figure>
@@ -167,7 +166,7 @@
 													</div>
 												</div>
 												<div class="tab-content" id="Advertising">
-													<h2>Advertising</h2>
+													<h2>Everlast</h2>
 													<div class="wrapper">
 														<figure class="left marg_right1"><a href="images/big_img9.jpg" class="lightbox-image" data-type="prettyPhoto[group5]"><span></span><img src="images/page3_img9.jpg" alt=""></a></figure>
 														<figure class="left"><a href="images/big_img10.jpg" class="lightbox-image" data-type="prettyPhoto[group5]"><span></span><img src="images/page3_img10.jpg" alt=""></a></figure>
@@ -188,30 +187,7 @@
 														<figure class="left marg_right1"><a href="images/big_img7.jpg" class="lightbox-image" data-type="prettyPhoto[group5]"><span></span><img src="images/page3_img7.jpg" alt=""></a></figure>
 														<figure class="left"><a href="images/big_img8.jpg" class="lightbox-image" data-type="prettyPhoto[group5]"><span></span><img src="images/page3_img8.jpg" alt=""></a></figure>
 													</div>
-												</div>
-												<div class="tab-content" id="Portrait">
-													<h2>Portrait</h2>
-													<div class="wrapper">
-														<figure class="left marg_right1"><a href="images/big_img1.jpg" class="lightbox-image" data-type="prettyPhoto[group6]"><span></span><img src="images/page3_img1.jpg" alt=""></a></figure>
-														<figure class="left"><a href="images/big_img2.jpg" class="lightbox-image" data-type="prettyPhoto[group6]"><span></span><img src="images/page3_img2.jpg" alt=""></a></figure>
-													</div>
-													<div class="wrapper">
-														<figure class="left marg_right1"><a href="images/big_img3.jpg" class="lightbox-image" data-type="prettyPhoto[group6]"><span></span><img src="images/page3_img3.jpg" alt=""></a></figure>
-														<figure class="left"><a href="images/big_img4.jpg" class="lightbox-image" data-type="prettyPhoto[group6]"><span></span><img src="images/page3_img4.jpg" alt=""></a></figure>
-													</div>
-													<div class="wrapper">
-														<figure class="left marg_right1"><a href="images/big_img5.jpg" class="lightbox-image" data-type="prettyPhoto[group6]"><span></span><img src="images/page3_img5.jpg" alt=""></a></figure>
-														<figure class="left"><a href="images/big_img6.jpg" class="lightbox-image" data-type="prettyPhoto[group6]"><span></span><img src="images/page3_img6.jpg" alt=""></a></figure>
-													</div>
-													<div class="wrapper">
-														<figure class="left marg_right1"><a href="images/big_img7.jpg" class="lightbox-image" data-type="prettyPhoto[group6]"><span></span><img src="images/page3_img7.jpg" alt=""></a></figure>
-														<figure class="left"><a href="images/big_img8.jpg" class="lightbox-image" data-type="prettyPhoto[group6]"><span></span><img src="images/page3_img8.jpg" alt=""></a></figure>
-													</div>
-													<div class="wrapper">
-														<figure class="left marg_right1"><a href="images/big_img9.jpg" class="lightbox-image" data-type="prettyPhoto[group6]"><span></span><img src="images/page3_img9.jpg" alt=""></a></figure>
-														<figure class="left"><a href="images/big_img10.jpg" class="lightbox-image" data-type="prettyPhoto[group6]"><span></span><img src="images/page3_img10.jpg" alt=""></a></figure>
-													</div>
-												</div>
+												</div>												
 											</div>
 										</div>
 									</div>
@@ -230,21 +206,23 @@
 													<li class="selected"><a href="#Fashion"><span></span><strong>Daisy-Fuentes</strong></a></li>
 													<li><a href="#Objects"><span></span><strong>Cadillac</strong></a></li>
 													<li><a href="#Wedding"><span></span><strong>Dicaprio</strong></a></li>
-													<li><a href="#Reportage"><span></span><strong>Reportage</strong></a></li>
-													<li><a href="#Advertising"><span></span><strong>Advertising</strong></a></li>
-													<li><a href="#Portrait"><span></span><strong>Portrait</strong></a></li>
+													<li><a href="#Reportage"><span></span><strong>Shopia Loren</strong></a></li>
+													<li><a href="#Advertising"><span></span><strong>Everlast</strong></a></li>
+													<li><a href="#Portrait"><span></span><strong>Coleman</strong></a></li>
+													<li><a href="#Jackson"><span></span><strong>Randy Jackson</strong></a></li>
+
 												</ul>
 											</div>
-											<div class="col2 pad_left1">
+												<div class="col2 pad_left1">
 												<div class="tab-content" id="Fashion">
 													<h2>Daisy Fuentes</h2>
 													<div class="wrapper">
 														<figure class="left marg_right1"><a href="images/grandes/daisy1.jpg" class="lightbox-image" data-type="prettyPhoto[group2]"><span></span><img src="images/pequenias/daisy1.jpg" alt=""></a></figure>
 														<figure class="left marg_right1"><a href="images/grandes/daisy2.jpg" class="lightbox-image" data-type="prettyPhoto[group2]"><span></span><img src="images/pequenias/daisy2.jpg" alt=""></a></figure>
-														<figure class="left"><a href="images/grandes/daisy3.jpg" class="lightbox-image" data-type="prettyPhoto[group2]"><span></span><img src="images/pequenias/daisy3.jpg" alt=""></a></figure>
 													</div>
 													<div class="wrapper">
-														<figure class="left"><a href="images/grandes/daisy4.jpg" class="lightbox-image" data-type="prettyPhoto[group2]"><span></span><img src="images/pequenias/daisy4.jpg" alt=""></a></figure>
+														<figure class="left marg_right1"><a href="images/grandes/daisy3.jpg" class="lightbox-image" data-type="prettyPhoto[group2]"><span></span><img src="images/pequenias/daisy3.jpg" alt=""></a></figure>
+														<figure class="left marg_right1"><a href="images/grandes/daisy4.jpg" class="lightbox-image" data-type="prettyPhoto[group2]"><span></span><img src="images/pequenias/daisy4.jpg" alt=""></a></figure>
 													</div>
 													<div class="wrapper">
 														<figure class="left marg_right1"><a href="images/big_img5.jpg" class="lightbox-image" data-type="prettyPhoto[group2]"><span></span><img src="images/page3_img5.jpg" alt=""></a></figure>
@@ -308,7 +286,7 @@
 													</div>
 												</div>
 												<div class="tab-content" id="Reportage">
-													<h2>Reportage</h2>
+													<h2>Shopia</h2>
 													<div class="wrapper">
 														<figure class="left marg_right1"><a href="images/big_img7.jpg" class="lightbox-image" data-type="prettyPhoto[group4]"><span></span><img src="images/page3_img7.jpg" alt=""></a></figure>
 														<figure class="left"><a href="images/big_img8.jpg" class="lightbox-image" data-type="prettyPhoto[group4]"><span></span><img src="images/page3_img8.jpg" alt=""></a></figure>
@@ -331,7 +309,7 @@
 													</div>
 												</div>
 												<div class="tab-content" id="Advertising">
-													<h2>Advertising</h2>
+													<h2>Everlast</h2>
 													<div class="wrapper">
 														<figure class="left marg_right1"><a href="images/big_img9.jpg" class="lightbox-image" data-type="prettyPhoto[group5]"><span></span><img src="images/page3_img9.jpg" alt=""></a></figure>
 														<figure class="left"><a href="images/big_img10.jpg" class="lightbox-image" data-type="prettyPhoto[group5]"><span></span><img src="images/page3_img10.jpg" alt=""></a></figure>
@@ -354,28 +332,51 @@
 													</div>
 												</div>
 												<div class="tab-content" id="Portrait">
-													<h2>Portrait</h2>
+													<h2>Coleman</h2>
 													<div class="wrapper">
-														<figure class="left marg_right1"><a href="images/big_img1.jpg" class="lightbox-image" data-type="prettyPhoto[group6]"><span></span><img src="images/page3_img1.jpg" alt=""></a></figure>
-														<figure class="left"><a href="images/big_img2.jpg" class="lightbox-image" data-type="prettyPhoto[group6]"><span></span><img src="images/page3_img2.jpg" alt=""></a></figure>
+														<figure class="left marg_right1"><a href="images/big_img9.jpg" class="lightbox-image" data-type="prettyPhoto[group5]"><span></span><img src="images/page3_img9.jpg" alt=""></a></figure>
+														<figure class="left"><a href="images/big_img10.jpg" class="lightbox-image" data-type="prettyPhoto[group5]"><span></span><img src="images/page3_img10.jpg" alt=""></a></figure>
 													</div>
 													<div class="wrapper">
-														<figure class="left marg_right1"><a href="images/big_img3.jpg" class="lightbox-image" data-type="prettyPhoto[group6]"><span></span><img src="images/page3_img3.jpg" alt=""></a></figure>
-														<figure class="left"><a href="images/big_img4.jpg" class="lightbox-image" data-type="prettyPhoto[group6]"><span></span><img src="images/page3_img4.jpg" alt=""></a></figure>
+														<figure class="left marg_right1"><a href="images/big_img1.jpg" class="lightbox-image" data-type="prettyPhoto[group5]"><span></span><img src="images/page3_img1.jpg" alt=""></a></figure>
+														<figure class="left"><a href="images/big_img2.jpg" class="lightbox-image" data-type="prettyPhoto[group5]"><span></span><img src="images/page3_img2.jpg" alt=""></a></figure>
 													</div>
 													<div class="wrapper">
-														<figure class="left marg_right1"><a href="images/big_img5.jpg" class="lightbox-image" data-type="prettyPhoto[group6]"><span></span><img src="images/page3_img5.jpg" alt=""></a></figure>
-														<figure class="left"><a href="images/big_img6.jpg" class="lightbox-image" data-type="prettyPhoto[group6]"><span></span><img src="images/page3_img6.jpg" alt=""></a></figure>
+														<figure class="left marg_right1"><a href="images/big_img3.jpg" class="lightbox-image" data-type="prettyPhoto[group5]"><span></span><img src="images/page3_img3.jpg" alt=""></a></figure>
+														<figure class="left"><a href="images/big_img4.jpg" class="lightbox-image" data-type="prettyPhoto[group5]"><span></span><img src="images/page3_img4.jpg" alt=""></a></figure>
 													</div>
 													<div class="wrapper">
-														<figure class="left marg_right1"><a href="images/big_img7.jpg" class="lightbox-image" data-type="prettyPhoto[group6]"><span></span><img src="images/page3_img7.jpg" alt=""></a></figure>
-														<figure class="left"><a href="images/big_img8.jpg" class="lightbox-image" data-type="prettyPhoto[group6]"><span></span><img src="images/page3_img8.jpg" alt=""></a></figure>
+														<figure class="left marg_right1"><a href="images/big_img5.jpg" class="lightbox-image" data-type="prettyPhoto[group5]"><span></span><img src="images/page3_img5.jpg" alt=""></a></figure>
+														<figure class="left"><a href="images/big_img6.jpg" class="lightbox-image" data-type="prettyPhoto[group5]"><span></span><img src="images/page3_img6.jpg" alt=""></a></figure>
 													</div>
 													<div class="wrapper">
-														<figure class="left marg_right1"><a href="images/big_img9.jpg" class="lightbox-image" data-type="prettyPhoto[group6]"><span></span><img src="images/page3_img9.jpg" alt=""></a></figure>
-														<figure class="left"><a href="images/big_img10.jpg" class="lightbox-image" data-type="prettyPhoto[group6]"><span></span><img src="images/page3_img10.jpg" alt=""></a></figure>
+														<figure class="left marg_right1"><a href="images/big_img7.jpg" class="lightbox-image" data-type="prettyPhoto[group5]"><span></span><img src="images/page3_img7.jpg" alt=""></a></figure>
+														<figure class="left"><a href="images/big_img8.jpg" class="lightbox-image" data-type="prettyPhoto[group5]"><span></span><img src="images/page3_img8.jpg" alt=""></a></figure>
 													</div>
 												</div>
+												<div class="tab-content" id="Jackson">
+													<h2>Randy Jackson</h2>
+													<div class="wrapper">
+														<figure class="left marg_right1"><a href="images/big_img9.jpg" class="lightbox-image" data-type="prettyPhoto[group5]"><span></span><img src="images/page3_img9.jpg" alt=""></a></figure>
+														<figure class="left"><a href="images/big_img10.jpg" class="lightbox-image" data-type="prettyPhoto[group5]"><span></span><img src="images/page3_img10.jpg" alt=""></a></figure>
+													</div>
+													<div class="wrapper">
+														<figure class="left marg_right1"><a href="images/big_img1.jpg" class="lightbox-image" data-type="prettyPhoto[group5]"><span></span><img src="images/page3_img1.jpg" alt=""></a></figure>
+														<figure class="left"><a href="images/big_img2.jpg" class="lightbox-image" data-type="prettyPhoto[group5]"><span></span><img src="images/page3_img2.jpg" alt=""></a></figure>
+													</div>
+													<div class="wrapper">
+														<figure class="left marg_right1"><a href="images/big_img3.jpg" class="lightbox-image" data-type="prettyPhoto[group5]"><span></span><img src="images/page3_img3.jpg" alt=""></a></figure>
+														<figure class="left"><a href="images/big_img4.jpg" class="lightbox-image" data-type="prettyPhoto[group5]"><span></span><img src="images/page3_img4.jpg" alt=""></a></figure>
+													</div>
+													<div class="wrapper">
+														<figure class="left marg_right1"><a href="images/big_img5.jpg" class="lightbox-image" data-type="prettyPhoto[group5]"><span></span><img src="images/page3_img5.jpg" alt=""></a></figure>
+														<figure class="left"><a href="images/big_img6.jpg" class="lightbox-image" data-type="prettyPhoto[group5]"><span></span><img src="images/page3_img6.jpg" alt=""></a></figure>
+													</div>
+													<div class="wrapper">
+														<figure class="left marg_right1"><a href="images/big_img7.jpg" class="lightbox-image" data-type="prettyPhoto[group5]"><span></span><img src="images/page3_img7.jpg" alt=""></a></figure>
+														<figure class="left"><a href="images/big_img8.jpg" class="lightbox-image" data-type="prettyPhoto[group5]"><span></span><img src="images/page3_img8.jpg" alt=""></a></figure>
+													</div>
+												</div>													
 											</div>
 										</div>
 									</div>
