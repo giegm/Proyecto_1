@@ -630,7 +630,7 @@
 					<p><span class="map-icon2"> </span>disbralentca@hotmail.com</p>
 					<p><span class="map-icon3"> </span>(0212) 561.14.02</p>
 					<p><span class="map-icon3"> </span>(0212) 563.05.46</p>
-					Siguenos<br>
+					Siguenos en:<br>
 					<a href="https://www.facebook.com/DISBRALENT-CA-121695221186438/?fref=ts" target="_blank"><img alt="siguenos en facebook" height="32" src="images/iconos/face.png" title="siguenos en facebook" width="32" /></a>
 					<a href="https://twitter.com/disbralentca" target="_blank"><img alt="siguenos en Twitter" height="32" src="images/iconos/Twitter.png" title="siguenos en Twitter" width="32" /></a>
 					<a href="https://www.instagram.com/disbralentca/" target="_blank"><img alt="sígueme en Instagram" height="32" src="images/iconos/instagram.png" title="sígueme en Instagram" width="32" /></a>
