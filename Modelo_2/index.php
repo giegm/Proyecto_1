@@ -152,11 +152,11 @@
 				<div class="container">
 					<div class="process-grids text-center wow bounce" data-wow-delay="0.4s">
 						<div class="col-md-6 wow bounceInUp" data-wow-delay="0.4s">														
-							<img src="images/marron.jpg" style="align:center;"/>
+							<img src="images/optica_lamarron.png" style="align:center;"/>
 							<h4> Esquina La Marrón, Centro Comercial Doral, Piso #. Caracas, Distrito Capital.</h4>
 						</div>
-						<div class="col-md-6 process-grid process-grid4 wow bounceInDown" data-wow-delay="0.4s">							
-							<h4><a href="#">Esq. Salas</a></h4>
+						<div class="col-md-6 wow bounceInDown" data-wow-delay="0.4s">							
+							<img src="images/optileader.png" style="align:center;"/>
 							<h4>Esquina de Salas, Avenida Norte 4, Caracas. Distrito Capital.</h4>
 						</div>
 						<div class="clearfix"> </div>
@@ -336,100 +336,100 @@
 									<div class="tab-1 resp-tab-content" aria-labelledby="tab_item-0">
 										<div class="tab_img">
 												<div class="col-md-4 img-top ">
-												  	<a data-toggle="modal" data-target=".bs-example-modal-md" href="#" class="b-link-stripe b-animate-go  thickbox">
+												  	<a data-toggle="modal" data-target=".bs-example-modal-md" href="catalogo/sol/sol_cadillac.php" class="b-link-stripe b-animate-go  thickbox">
 															 <img class="p-img" src="images/marcas/sunglasses/cadillac_muestra.jpg" /><div class="b-wrapper">
 																<h2 class="b-animate b-from-left    b-delay03 ">
-																	<div class="caption">
-															<h4>heading of project</h4>
-															<p>This is Photoshop's version  of Lorem Ipsum.</p>
-														</div>
+																<div class="caption">
+																	<h4>Cadillac</h4>
+																	<p>Para ver el catálogo presione click.</p>
+																</div>
 																</h2>
 															</div></a>
 												</div>
 												<div class="col-md-4 img-top ">
-												   <a data-toggle="modal" data-target=".bs-example-modal-md" href="#" class="b-link-stripe b-animate-go  thickbox">
+												   <a data-toggle="modal" data-target=".bs-example-modal-md" href="catalogo/sol/sol_daisyfuentes.php" class="b-link-stripe b-animate-go  thickbox">
 													 <img class="p-img" src="images/marcas/daisy_fuentes.jpg" /><div class="b-wrapper">
 														<h2 class="b-animate b-from-left    b-delay03 ">
 															<div class="caption">
-															<h4>heading of project</h4>
-															<p>This is Photoshop's version  of Lorem Ipsum.</p>
+															<h4>Daisy Fuentes</h4>
+															<p>Para ver el catálogo presione click.</p>
 														</div>
 														</h2>
 													</div></a>
 												</div>
 												<div class="col-md-4 img-top">
-												  <a data-toggle="modal" data-target=".bs-example-modal-md" href="#" class="b-link-stripe b-animate-go  thickbox">
+												  <a data-toggle="modal" data-target=".bs-example-modal-md" href="catalogo/sol/sol_coleman.php" class="b-link-stripe b-animate-go  thickbox">
 												 <img class="p-img" src="images/marcas/sunglasses/coleman_muestra.jpg" /><div class="b-wrapper">
 													<h2 class="b-animate b-from-left    b-delay03 ">
 														<div class="caption">
-															<h4>heading of project</h4>
-															<p>This is Photoshop's version  of Lorem Ipsum.</p>
+															<h4>Coleman</h4>
+															<p>Para ver el catálogo presione click.</p>
 														</div>
 													</h2>
 												</div></a>
 												</div>
 												<div class="col-md-4 img-top ">
-												 <a data-toggle="modal" data-target=".bs-example-modal-md" href="#" class="b-link-stripe b-animate-go  thickbox">
+												 <a data-toggle="modal" data-target=".bs-example-modal-md" href="catalogo/sol/sol_everlast.php" class="b-link-stripe b-animate-go  thickbox">
 												 <img class="p-img" src="images/marcas/everlast_logo.jpg" /><div class="b-wrapper">
 													<h2 class="b-animate b-from-left    b-delay03 ">
 														<div class="caption">
-															<h4>heading of project</h4>
-															<p>This is Photoshop's version  of Lorem Ipsum.</p>
+															<h4>Everlast</h4>
+															<p>Para ver el catálogo presione click.</p>
 														</div>
 													</h2>
 												</div></a>
 												</div>
 												<div class="col-md-4 img-top ">
-												  <a data-toggle="modal" data-target=".bs-example-modal-md" href="#" class="b-link-stripe b-animate-go  thickbox">
+												  <a data-toggle="modal" data-target=".bs-example-modal-md" href="catalogo/sol/sol_daisyfuentes.php" class="b-link-stripe b-animate-go  thickbox">
 													 <img class="p-img" src="images/marcas/sunglasses/daisyF_muestra.jpg" /><div class="b-wrapper">
 														<h2 class="b-animate b-from-left    b-delay03 ">
 															<div class="caption">
-															<h4>heading of project</h4>
-															<p>This is Photoshop's version  of Lorem Ipsum.</p>
+															<h4>Daisy Fuentes</h4>
+															<p>Para ver el catálogo presione click.</p>
 														</div>
 														</h2>
 													</div></a>
 												</div>
 												<div class="col-md-4 img-top">
-												  <a data-toggle="modal" data-target=".bs-example-modal-md" href="#" class="b-link-stripe b-animate-go  thickbox">
+												  <a data-toggle="modal" data-target=".bs-example-modal-md" href="catalogo/sol/sol_prorx" class="b-link-stripe b-animate-go  thickbox">
 													 <img class="p-img" src="images/marcas/proRx.jpg" /><div class="b-wrapper">
 														<h2 class="b-animate b-from-left    b-delay03 ">
 														<div class="caption">
-															<h4>heading of project</h4>
-															<p>This is Photoshop's version  of Lorem Ipsum.</p>
+															<h4>ProRx</h4>
+															<p>Para ver el catálogo presione click.</p>
 														</div>
 														</h2>
 													</div></a>
 												</div>
 												<div class="col-md-4 img-top ">
-												   <a data-toggle="modal" data-target=".bs-example-modal-md" href="#" class="b-link-stripe b-animate-go  thickbox">
+												   <a data-toggle="modal" data-target=".bs-example-modal-md" href="catalogo/sol/sol_cadillac.php" class="b-link-stripe b-animate-go  thickbox">
 													 <img class="p-img" src="images/marcas/cadillac.jpg" /><div class="b-wrapper">
 														<h2 class="b-animate b-from-left    b-delay03 ">
 															<div class="caption">
-															<h4>heading of project</h4>
-															<p>This is Photoshop's version  of Lorem Ipsum.</p>
+															<h4>Cadillac</h4>
+															<p>Para ver el catálogo presione click.</p>
 														</div>
 														</h2>
 													</div></a>
 												</div>
 												<div class="col-md-4 img-top ">
-												 <a data-toggle="modal" data-target=".bs-example-modal-md" href="#" class="b-link-stripe b-animate-go  thickbox">
+												 <a data-toggle="modal" data-target=".bs-example-modal-md" href="catalogo/sol/sol_everlast.php" class="b-link-stripe b-animate-go  thickbox">
 													 <img class="p-img" src="images/marcas/sunglasses/everlast_muestra.jpg" /><div class="b-wrapper">
 														<h2 class="b-animate b-from-left    b-delay03 ">
 															<div class="caption">
-															<h4>heading of project</h4>
-															<p>This is Photoshop's version  of Lorem Ipsum.</p>
+															<h4>Everlast</h4>
+															<p>Para ver el catálogo presione click.</p>
 														</div>
 														</h2>
 													</div></a>
 												</div>
 												<div class="col-md-4 img-top ">
-												   <a data-toggle="modal" data-target=".bs-example-modal-md" href="#" class="b-link-stripe b-animate-go  thickbox">
+												   <a data-toggle="modal" data-target=".bs-example-modal-md" href="catalogo/sol/sol_coleman.php" class="b-link-stripe b-animate-go  thickbox">
 													 <img class="p-img" src="images/marcas/coleman.jpg" /><div class="b-wrapper">
 														<h2 class="b-animate b-from-left    b-delay03 ">
 															<div class="caption">
-															<h4>heading of project</h4>
-															<p>This is Photoshop's version  of Lorem Ipsum.</p>
+															<h4>Coleman</h4>
+															<p>Para ver el catálogo presione click.</p>
 														</div>
 														</h2>
 													</div></a>
@@ -442,100 +442,100 @@
 									<div class="tab-1 resp-tab-content" aria-labelledby="tab_item-1">
 										<div class="tab_img">
 												<div class="col-md-4 img-top">
-												  <a data-toggle="modal" data-target=".bs-example-modal-md" href="#" class="b-link-stripe b-animate-go  thickbox">
-												 <img class="p-img" src="images/marcas/sophialoren.jpg" /><div class="b-wrapper">
+												  <a data-toggle="modal" data-target=".bs-example-modal-md" href="catalogo/correctivos/correctivos_retro.php" class="b-link-stripe b-animate-go  thickbox">
+												 <img class="p-img" src="images/marcas/retro.jpg" /><div class="b-wrapper">
 													<h2 class="b-animate b-from-left    b-delay03 ">
 														<div class="caption">
-															<h4>heading of project</h4>
-															<p>This is Photoshop's version  of Lorem Ipsum.</p>
+															<h4>Lentes Retro</h4>
+															<p>Para ver el catálogo presione click.</p>
 														</div>
 													</h2>
 												</div></a>
 												</div>
 												<div class="col-md-4 img-top">
-												  <a data-toggle="modal" data-target=".bs-example-modal-md" href="#" class="b-link-stripe b-animate-go  thickbox">
+												  <a data-toggle="modal" data-target=".bs-example-modal-md" href="catalogo/correctivos/correctivos_cadillac.php" class="b-link-stripe b-animate-go  thickbox">
 												 <img class="p-img" src="images/marcas/eyerwear/CadEye300.jpg" /><div class="b-wrapper">
 													<h2 class="b-animate b-from-left    b-delay03 ">
 														<div class="caption">
-															<h4>heading of project</h4>
-															<p>This is Photoshop's version  of Lorem Ipsum.</p>
+															<h4>Cadillac</h4>
+															<p>Para ver el catálogo presione click.</p>
 														</div>
 													</h2>
 												</div></a>
 												</div>										
 												<div class="col-md-4 img-top">
-												  <a data-toggle="modal" data-target=".bs-example-modal-md" href="#" class="b-link-stripe b-animate-go  thickbox">
+												  <a data-toggle="modal" data-target=".bs-example-modal-md" href="catalogo/correctivos/correctivos_dc.php" class="b-link-stripe b-animate-go  thickbox">
 												 <img class="p-img" src="images/marcas/dicaprio.jpg" /><div class="b-wrapper">
 													<h2 class="b-animate b-from-left    b-delay03 ">
 														<div class="caption">
-															<h4>heading of project</h4>
-															<p>This is Photoshop's version  of Lorem Ipsum.</p>
+															<h4>DiCaprio</h4>
+															<p>Para ver el catálogo presione click.</p>
 														</div>
 													</h2>
 												</div></a>
 												</div>
 												<div class="col-md-4 img-top">
-												  <a data-toggle="modal" data-target=".bs-example-modal-md" href="#" class="b-link-stripe b-animate-go  thickbox">
+												  <a data-toggle="modal" data-target=".bs-example-modal-md" href="catalogo/correctivos/correctivos_sophialoren.php" class="b-link-stripe b-animate-go  thickbox">
 												 <img class="p-img" src="images/marcas/eyerwear/sophialoren_muestra.jpg" /><div class="b-wrapper">
 													<h2 class="b-animate b-from-left    b-delay03 ">
 														<div class="caption">
-															<h4>heading of project</h4>
-															<p>This is Photoshop's version  of Lorem Ipsum.</p>
+															<h4>Sophia Loren</h4>
+															<p>Para ver el catálogo presione click.</p>
 														</div>
 													</h2>
 												</div></a>
 												</div>
 												<div class="col-md-4 img-top">
-												  <a data-toggle="modal" data-target=".bs-example-modal-md" href="#" class="b-link-stripe b-animate-go  thickbox">
+												  <a data-toggle="modal" data-target=".bs-example-modal-md" href="catalogo/correctivos/correctivos_cadillac.php" class="b-link-stripe b-animate-go  thickbox">
 												 <img class="p-img" src="images/marcas/cadillac.jpg" /><div class="b-wrapper">
 													<h2 class="b-animate b-from-left    b-delay03 ">
 														<div class="caption">
-															<h4>heading of project</h4>
-															<p>This is Photoshop's version  of Lorem Ipsum.</p>
+															<h4>Cadillac</h4>
+															<p>Para ver el catálogo presione click.</p>
 														</div>
 													</h2>
 												</div></a>
 												</div>										
 												<div class="col-md-4 img-top">
-												  <a data-toggle="modal" data-target=".bs-example-modal-md" href="#" class="b-link-stripe b-animate-go  thickbox">
+												  <a data-toggle="modal" data-target=".bs-example-modal-md" href="catalogo/correctivos/correctivos_everlast.php" class="b-link-stripe b-animate-go  thickbox">
 												 <img class="p-img" src="images/marcas/everlast_logo.jpg" /><div class="b-wrapper">
 													<h2 class="b-animate b-from-left    b-delay03 ">
 														<div class="caption">
-															<h4>heading of project</h4>
-															<p>This is Photoshop's version  of Lorem Ipsum.</p>
+															<h4>Everlast</h4>
+															<p>Para ver el catálogo presione click.</p>
 														</div>
 													</h2>
 												</div></a>
 												</div>
 												<div class="col-md-4 img-top">
-												  <a data-toggle="modal" data-target=".bs-example-modal-md" href="#" class="b-link-stripe b-animate-go  thickbox">
+												  <a data-toggle="modal" data-target=".bs-example-modal-md" href="catalogo/correctivos/correctivos_daisyfuentes.php" class="b-link-stripe b-animate-go  thickbox">
 												 <img class="p-img" src="images/marcas/daisy_fuentes.jpg" /><div class="b-wrapper">
 													<h2 class="b-animate b-from-left    b-delay03 ">
 														<div class="caption">
-															<h4>heading of project</h4>
-															<p>This is Photoshop's version  of Lorem Ipsum.</p>
+															<h4>Daisy Fuentes</h4>
+															<p>Para ver el catálogo presione click.</p>
 														</div>
 													</h2>
 												</div></a>
 												</div>
 												<div class="col-md-4 img-top">
-												  <a data-toggle="modal" data-target=".bs-example-modal-md" href="#" class="b-link-stripe b-animate-go  thickbox">
+												  <a data-toggle="modal" data-target=".bs-example-modal-md" href="catalogo/correctivos/correctivos_randyjackson.php" class="b-link-stripe b-animate-go  thickbox">
 												 <img class="p-img" src="images/marcas/eyerwear/Randy-Jackson-nuestra.jpg" /><div class="b-wrapper">
 													<h2 class="b-animate b-from-left    b-delay03 ">
 														<div class="caption">
-															<h4>heading of project</h4>
-															<p>This is Photoshop's version  of Lorem Ipsum.</p>
+															<h4>Randy Jackson</h4>
+															<p>Para ver el catálogo presione click.</p>
 														</div>
 													</h2>
 												</div></a>
 												</div>								
 												<div class="col-md-4 img-top">
-												  <a data-toggle="modal" data-target=".bs-example-modal-md" href="#" class="b-link-stripe b-animate-go  thickbox">
+												  <a data-toggle="modal" data-target=".bs-example-modal-md" href="catalogo/correctivos/correctivos_coleman.php" class="b-link-stripe b-animate-go  thickbox">
 												    <img class="p-img" src="images/marcas/coleman.jpg" /><div class="b-wrapper">
 													<h2 class="b-animate b-from-left    b-delay03 ">
 														<div class="caption">
-															<h4>heading of project</h4>
-															<p>This is Photoshop's version  of Lorem Ipsum.</p>
+															<h4>Coleman</h4>
+															<p>Para ver el catálogo presione click.</p>
 														</div>
 													</h2>
 												</div></a>
