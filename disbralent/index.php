@@ -153,7 +153,7 @@
 					<div class="process-grids text-center wow bounce" data-wow-delay="0.4s">
 						<div class="col-md-6 wow bounceInUp" data-wow-delay="0.4s">														
 							<img src="images/optica_lamarron.png" style="align:center;"/>
-							<h4> Esquina La Marrón, Centro Comercial Doral, Piso #. Caracas, Distrito Capital.</h4>
+							<h4> Esquina La Marrón, Centro Doral, Mezzanina, Local M-7, Caracas.</h4>
 						</div>
 						<div class="col-md-6 wow bounceInDown" data-wow-delay="0.4s">							
 							<img src="images/optileader.png" style="align:center;"/>
@@ -549,113 +549,80 @@
 									<div class="tab-1 resp-tab-content" aria-labelledby="tab_item-2">
 										<div class="tab_img">
 												<div class="col-md-4 img-top">
-												  <a data-toggle="modal" data-target=".bs-example-modal-md" href="catalogo/correctivos/correctivos_contacto.php" class="b-link-stripe b-animate-go  thickbox">
-												 <img class="p-img" src="images/marcas/retro.jpg" /><div class="b-wrapper">
+												  <a data-toggle="modal" data-target=".bs-example-modal-md" class="b-link-stripe b-animate-go  thickbox">
+												 <img class="p-img" src="images/marcas/soft1.jpg" /><div class="b-wrapper">
 													<h2 class="b-animate b-from-left    b-delay03 ">
 														<div class="caption">
 															<h4>Disbrasoft</h4>
-															<p>Para ver el catálogo presione click.</p>
+															<p>Lentes de Contacto Correctivos para ti.</p>
 														</div>
 													</h2>
 												</div></a>
 												</div>
 												<div class="col-md-4 img-top">
-												  <a data-toggle="modal" data-target=".bs-example-modal-md" href="catalogo/correctivos/correctivos_contacto.php" class="b-link-stripe b-animate-go  thickbox">
-												 <img class="p-img" src="images/marcas/eyerwear/CadEye300.jpg" /><div class="b-wrapper">
+												  <a data-toggle="modal" data-target=".bs-example-modal-md" class="b-link-stripe b-animate-go  thickbox">
+												 <img class="p-img" src="images/marcas/soft.jpg" /><div class="b-wrapper">
 													<h2 class="b-animate b-from-left    b-delay03 ">
 														<div class="caption">
 															<h4>Disbrasoft</h4>
-															<p>Para ver el catálogo presione click.</p>
+															<p>Lentes de Contacto Correctivos para ti.</p>
 														</div>
 													</h2>
 												</div></a>
 												</div>										
 												<div class="col-md-4 img-top">
-												  <a data-toggle="modal" data-target=".bs-example-modal-md" href="catalogo/correctivos/correctivos_contacto.php" class="b-link-stripe b-animate-go  thickbox">
-												 <img class="p-img" src="images/marcas/dicaprio.jpg" /><div class="b-wrapper">
+												  <a data-toggle="modal" data-target=".bs-example-modal-md" class="b-link-stripe b-animate-go  thickbox">
+												 <img class="p-img" src="images/marcas/soft1.jpg" /><div class="b-wrapper">
 													<h2 class="b-animate b-from-left    b-delay03 ">
 														<div class="caption">
 															<h4>Disbrasoft</h4>
-															<p>Para ver el catálogo presione click.</p>
+															<p>Lentes de Contacto Correctivos para ti.</p>
 														</div>
 													</h2>
 												</div></a>
 												</div>
 												<div class="col-md-4 img-top">
-												  <a data-toggle="modal" data-target=".bs-example-modal-md" href="catalogo/correctivos/correctivos_contacto.php" class="b-link-stripe b-animate-go  thickbox">
-												 <img class="p-img" src="images/marcas/eyerwear/sophialoren_muestra.jpg" /><div class="b-wrapper">
+												  <a data-toggle="modal" data-target=".bs-example-modal-md" class="b-link-stripe b-animate-go  thickbox">
+												 <img class="p-img" src="images/marcas/soft2.jpg" /><div class="b-wrapper">
 													<h2 class="b-animate b-from-left    b-delay03 ">
 														<div class="caption">
 															<h4>Disbrasoft</h4>
-															<p>Para ver el catálogo presione click.</p>
+															<p>Lentes de Contacto Correctivos para ti.</p>
 														</div>
 													</h2>
 												</div></a>
 												</div>
 												<div class="col-md-4 img-top">
-												  <a data-toggle="modal" data-target=".bs-example-modal-md" href="catalogo/correctivos/correctivos_contacto.php" class="b-link-stripe b-animate-go  thickbox">
-												 <img class="p-img" src="images/marcas/cadillac.jpg" /><div class="b-wrapper">
+												  <a data-toggle="modal" data-target=".bs-example-modal-md" class="b-link-stripe b-animate-go  thickbox">
+												 <img class="p-img" src="images/marcas/soft3.jpg" /><div class="b-wrapper">
 													<h2 class="b-animate b-from-left    b-delay03 ">
 														<div class="caption">
 															<h4>Disbrasoft</h4>
-															<p>Para ver el catálogo presione click.</p>
+															<p>Lentes de Contacto Correctivos para ti.</p>
 														</div>
 													</h2>
 												</div></a>
 												</div>										
 												<div class="col-md-4 img-top">
-												  <a data-toggle="modal" data-target=".bs-example-modal-md" href="catalogo/correctivos/correctivos_contacto.php" class="b-link-stripe b-animate-go  thickbox">
-												 <img class="p-img" src="images/marcas/everlast_logo.jpg" /><div class="b-wrapper">
+												  <a data-toggle="modal" data-target=".bs-example-modal-md" class="b-link-stripe b-animate-go  thickbox">
+												 <img class="p-img" src="images/marcas/soft2.jpg" /><div class="b-wrapper">
 													<h2 class="b-animate b-from-left    b-delay03 ">
 														<div class="caption">
 															<h4>Disbrasoft</h4>
-															<p>Para ver el catálogo presione click.</p>
+															<p>Lentes de Contacto Correctivos para ti.</p>
 														</div>
 													</h2>
 												</div></a>
 												</div>
-												<div class="col-md-4 img-top">
-												  <a data-toggle="modal" data-target=".bs-example-modal-md" href="catalogo/correctivos/correctivos_contacto.php" class="b-link-stripe b-animate-go  thickbox">
-												 <img class="p-img" src="images/marcas/daisy_fuentes.jpg" /><div class="b-wrapper">
-													<h2 class="b-animate b-from-left    b-delay03 ">
-														<div class="caption">
-															<h4>Disbrasoft</h4>
-															<p>Para ver el catálogo presione click.</p>
-														</div>
-													</h2>
-												</div></a>
-												</div>
-												<div class="col-md-4 img-top">
-												  <a data-toggle="modal" data-target=".bs-example-modal-md" href="catalogo/correctivos/correctivos_contacto.php" class="b-link-stripe b-animate-go  thickbox">
-												 <img class="p-img" src="images/marcas/eyerwear/Randy-Jackson-nuestra.jpg" /><div class="b-wrapper">
-													<h2 class="b-animate b-from-left    b-delay03 ">
-														<div class="caption">
-															<h4>Disbrasoft</h4>
-															<p>Para ver el catálogo presione click.</p>
-														</div>
-													</h2>
-												</div></a>
-												</div>								
-												<div class="col-md-4 img-top">
-												  <a data-toggle="modal" data-target=".bs-example-modal-md" href="catalogo/correctivos/correctivos_contacto.php" class="b-link-stripe b-animate-go  thickbox">
-												    <img class="p-img" src="images/marcas/coleman.jpg" /><div class="b-wrapper">
-													<h2 class="b-animate b-from-left    b-delay03 ">
-														<div class="caption">
-															<h4>Disbrasoft</h4>
-															<p>Para ver el catálogo presione click.</p>
-														</div>
-													</h2>
-												</div></a>
-												</div>
-
+												
 												<div class="clearfix"></div>
 										</div>		        					 
 									</div>
 									<div class="tab-1 resp-tab-content" aria-labelledby="tab_item-3">
 										<div class="tab_img">
 												<div class="col-md-4 img-top">
-												  <a data-toggle="modal" data-target=".bs-example-modal-md" href="catalogo/correctivos/correctivos_retro.php" class="b-link-stripe b-animate-go  thickbox">
-												 <img class="p-img" src="images/marcas/retro.jpg" /><div class="b-wrapper">
+												  <a data-toggle="modal" data-target=".bs-example-modal-md" href="catalogo/equipo/equipos.php" class="b-link-stripe b-animate-go  thickbox">
+												 <img class="p-img" src="images/marcas/eo.jpg" /><div class="b-wrapper">
 													<h2 class="b-animate b-from-left    b-delay03 ">
 														<div class="caption">
 															<h4>Equipos de Optometría</h4>
@@ -665,8 +632,8 @@
 												</div></a>
 												</div>
 												<div class="col-md-4 img-top">
-												  <a data-toggle="modal" data-target=".bs-example-modal-md" href="catalogo/correctivos/correctivos_cadillac.php" class="b-link-stripe b-animate-go  thickbox">
-												 <img class="p-img" src="images/marcas/eyerwear/CadEye300.jpg" /><div class="b-wrapper">
+												  <a data-toggle="modal" data-target=".bs-example-modal-md" href="catalogo/equipo/equipos.php" class="b-link-stripe b-animate-go  thickbox">
+												 <img class="p-img" src="images/marcas/ojo.jpg" /><div class="b-wrapper">
 													<h2 class="b-animate b-from-left    b-delay03 ">
 														<div class="caption">
 															<h4>Equipos de Optometría</h4>
@@ -676,8 +643,8 @@
 												</div></a>
 												</div>										
 												<div class="col-md-4 img-top">
-												  <a data-toggle="modal" data-target=".bs-example-modal-md" href="catalogo/correctivos/correctivos_dc.php" class="b-link-stripe b-animate-go  thickbox">
-												 <img class="p-img" src="images/marcas/dicaprio.jpg" /><div class="b-wrapper">
+												  <a data-toggle="modal" data-target=".bs-example-modal-md" href="catalogo/equipo/equipos.php" class="b-link-stripe b-animate-go  thickbox">
+												 <img class="p-img" src="images/marcas/plant1.jpg" /><div class="b-wrapper">
 													<h2 class="b-animate b-from-left    b-delay03 ">
 														<div class="caption">
 															<h4>Equipos de Optometría</h4>
@@ -687,8 +654,8 @@
 												</div></a>
 												</div>
 												<div class="col-md-4 img-top">
-												  <a data-toggle="modal" data-target=".bs-example-modal-md" href="catalogo/correctivos/correctivos_sophialoren.php" class="b-link-stripe b-animate-go  thickbox">
-												 <img class="p-img" src="images/marcas/eyerwear/sophialoren_muestra.jpg" /><div class="b-wrapper">
+												  <a data-toggle="modal" data-target=".bs-example-modal-md" href="catalogo/equipo/equipos.php" class="b-link-stripe b-animate-go  thickbox">
+												 <img class="p-img" src="images/marcas/plant1.jpg" /><div class="b-wrapper">
 													<h2 class="b-animate b-from-left    b-delay03 ">
 														<div class="caption">
 															<h4>Equipos de Optometría</h4>
@@ -698,8 +665,8 @@
 												</div></a>
 												</div>
 												<div class="col-md-4 img-top">
-												  <a data-toggle="modal" data-target=".bs-example-modal-md" href="catalogo/correctivos/correctivos_cadillac.php" class="b-link-stripe b-animate-go  thickbox">
-												 <img class="p-img" src="images/marcas/cadillac.jpg" /><div class="b-wrapper">
+												  <a data-toggle="modal" data-target=".bs-example-modal-md" href="catalogo/equipo/equipos.php" class="b-link-stripe b-animate-go  thickbox">
+												 <img class="p-img" src="images/marcas/ojo.jpg" /><div class="b-wrapper">
 													<h2 class="b-animate b-from-left    b-delay03 ">
 														<div class="caption">
 															<h4>Equipos de Optometría</h4>
@@ -709,8 +676,8 @@
 												</div></a>
 												</div>										
 												<div class="col-md-4 img-top">
-												  <a data-toggle="modal" data-target=".bs-example-modal-md" href="catalogo/correctivos/correctivos_everlast.php" class="b-link-stripe b-animate-go  thickbox">
-												 <img class="p-img" src="images/marcas/everlast_logo.jpg" /><div class="b-wrapper">
+												  <a data-toggle="modal" data-target=".bs-example-modal-md" href="catalogo/equipo/equipos.php" class="b-link-stripe b-animate-go  thickbox">
+												 <img class="p-img" src="images/marcas/eo.jpg" /><div class="b-wrapper">
 													<h2 class="b-animate b-from-left    b-delay03 ">
 														<div class="caption">
 															<h4>Equipos de Optometría</h4>
@@ -719,39 +686,7 @@
 													</h2>
 												</div></a>
 												</div>
-												<div class="col-md-4 img-top">
-												  <a data-toggle="modal" data-target=".bs-example-modal-md" href="catalogo/correctivos/correctivos_daisyfuentes.php" class="b-link-stripe b-animate-go  thickbox">
-												 <img class="p-img" src="images/marcas/daisy_fuentes.jpg" /><div class="b-wrapper">
-													<h2 class="b-animate b-from-left    b-delay03 ">
-														<div class="caption">
-															<h4>DEquipos de Optometría</h4>
-															<p>Para ver el catálogo presione click.</p>
-														</div>
-													</h2>
-												</div></a>
-												</div>
-												<div class="col-md-4 img-top">
-												  <a data-toggle="modal" data-target=".bs-example-modal-md" href="catalogo/correctivos/correctivos_randyjackson.php" class="b-link-stripe b-animate-go  thickbox">
-												 <img class="p-img" src="images/marcas/eyerwear/Randy-Jackson-nuestra.jpg" /><div class="b-wrapper">
-													<h2 class="b-animate b-from-left    b-delay03 ">
-														<div class="caption">
-															<h4>Equipos de Optometría</h4>
-															<p>Para ver el catálogo presione click.</p>
-														</div>
-													</h2>
-												</div></a>
-												</div>								
-												<div class="col-md-4 img-top">
-												  <a data-toggle="modal" data-target=".bs-example-modal-md" href="catalogo/correctivos/correctivos_coleman.php" class="b-link-stripe b-animate-go  thickbox">
-												    <img class="p-img" src="images/marcas/coleman.jpg" /><div class="b-wrapper">
-													<h2 class="b-animate b-from-left    b-delay03 ">
-														<div class="caption">
-															<h4>Equipos de Optometría</h4>
-															<p>Para ver el catálogo presione click.</p>
-														</div>
-													</h2>
-												</div></a>
-												</div>
+												
 												<div class="clearfix"></div>
 										</div>	
 											
@@ -771,7 +706,7 @@
 												</div></a>
 												</div>
 												<div class="col-md-4 img-top">
-												  <a data-toggle="modal" data-target=".bs-example-modal-md" href="catalogo/correctivos/correctivos_cadillac.php" class="b-link-stripe b-animate-go  thickbox">
+												  <a data-toggle="modal" data-target=".bs-example-modal-md" href="catalogo/correctivos/correctivos_cadora.php" class="b-link-stripe b-animate-go  thickbox">
 												 <img class="p-img" src="images/marcas/cm.jpg" /><div class="b-wrapper">
 													<h2 class="b-animate b-from-left    b-delay03 ">
 														<div class="caption">
@@ -782,7 +717,7 @@
 												</div></a>
 												</div>										
 												<div class="col-md-4 img-top">
-												  <a data-toggle="modal" data-target=".bs-example-modal-md" href="catalogo/correctivos/correctivos_dc.php" class="b-link-stripe b-animate-go  thickbox">
+												  <a data-toggle="modal" data-target=".bs-example-modal-md" href="catalogo/correctivos/correctivos_cristinac.php" class="b-link-stripe b-animate-go  thickbox">
 												 <img class="p-img" src="images/marcas/cc.jpg" /><div class="b-wrapper">
 													<h2 class="b-animate b-from-left    b-delay03 ">
 														<div class="caption">
@@ -793,7 +728,7 @@
 												</div></a>
 												</div>
 												<div class="col-md-4 img-top">
-												  <a data-toggle="modal" data-target=".bs-example-modal-md" href="catalogo/correctivos/correctivos_sophialoren.php" class="b-link-stripe b-animate-go  thickbox">
+												  <a data-toggle="modal" data-target=".bs-example-modal-md" href="catalogo/correctivos/correctivos_nba.php" class="b-link-stripe b-animate-go  thickbox">
 												 <img class="p-img" src="images/marcas/nba.jpg" /><div class="b-wrapper">
 													<h2 class="b-animate b-from-left    b-delay03 ">
 														<div class="caption">
@@ -804,7 +739,7 @@
 												</div></a>
 												</div>
 												<div class="col-md-4 img-top">
-												  <a data-toggle="modal" data-target=".bs-example-modal-md" href="catalogo/correctivos/correctivos_cadillac.php" class="b-link-stripe b-animate-go  thickbox">
+												  <a data-toggle="modal" data-target=".bs-example-modal-md" href="catalogo/correctivos/correctivos_sevenv.php" class="b-link-stripe b-animate-go  thickbox">
 												 <img class="p-img" src="images/marcas/sv.jpg" /><div class="b-wrapper">
 													<h2 class="b-animate b-from-left    b-delay03 ">
 														<div class="caption">
@@ -815,7 +750,7 @@
 												</div></a>
 												</div>										
 												<div class="col-md-4 img-top">
-												  <a data-toggle="modal" data-target=".bs-example-modal-md" href="catalogo/correctivos/correctivos_everlast.php" class="b-link-stripe b-animate-go  thickbox">
+												  <a data-toggle="modal" data-target=".bs-example-modal-md" href="catalogo/correctivos/correctivos_legge.php" class="b-link-stripe b-animate-go  thickbox">
 												 <img class="p-img" src="images/marcas/l.jpg" /><div class="b-wrapper">
 													<h2 class="b-animate b-from-left    b-delay03 ">
 														<div class="caption">
@@ -826,7 +761,7 @@
 												</div></a>
 												</div>
 												<div class="col-md-4 img-top">
-												  <a data-toggle="modal" data-target=".bs-example-modal-md" href="catalogo/correctivos/correctivos_daisyfuentes.php" class="b-link-stripe b-animate-go  thickbox">
+												  <a data-toggle="modal" data-target=".bs-example-modal-md" href="catalogo/correctivos/correctivos_marcolin.php" class="b-link-stripe b-animate-go  thickbox">
 												 <img class="p-img" src="images/marcas/mv.jpg" /><div class="b-wrapper">
 													<h2 class="b-animate b-from-left    b-delay03 ">
 														<div class="caption">
@@ -837,7 +772,7 @@
 												</div></a>
 												</div>
 												<div class="col-md-4 img-top">
-												  <a data-toggle="modal" data-target=".bs-example-modal-md" href="catalogo/correctivos/correctivos_randyjackson.php" class="b-link-stripe b-animate-go  thickbox">
+												  <a data-toggle="modal" data-target=".bs-example-modal-md" href="catalogo/correctivos/correctivos_portaromana.php" class="b-link-stripe b-animate-go  thickbox">
 												 <img class="p-img" src="images/marcas/pr.jpg" /><div class="b-wrapper">
 													<h2 class="b-animate b-from-left    b-delay03 ">
 														<div class="caption">
@@ -848,7 +783,7 @@
 												</div></a>
 												</div>								
 												<div class="col-md-4 img-top">
-												  <a data-toggle="modal" data-target=".bs-example-modal-md" href="catalogo/correctivos/correctivos_coleman.php" class="b-link-stripe b-animate-go  thickbox">
+												  <a data-toggle="modal" data-target=".bs-example-modal-md" href="catalogo/correctivos/correctivos_otros.php" class="b-link-stripe b-animate-go  thickbox">
 												    <img class="p-img" src="images/marcas/etc.jpg" /><div class="b-wrapper">
 													<h2 class="b-animate b-from-left    b-delay03 ">
 														<div class="caption">

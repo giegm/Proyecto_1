@@ -310,7 +310,7 @@ nav a#pull {
 }
 /*---- about ----*/
 .head-section h3{
-	color:#6F6F6F;
+	color:#FF6138;
 	text-transform:uppercase;
 	font-style:italic;
 	font-size:2em;
@@ -350,7 +350,6 @@ nav a#pull {
 	color:#FFFFFF;
 	font-size:0.875em;;
 	line-height:1.7em;
-	font-weight:100;
 }
 .about-grid2{
 	background:#FF6138;
