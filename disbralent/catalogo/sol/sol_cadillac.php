@@ -33,15 +33,14 @@
 						
 
 					<!-- Filler Thumb Items (just for demonstration purposes) -->
-						<article class="item thumb" data-width="476"><h2>Kingdom of the Wind</h2><a href="../images/sol-grande/cadillac/c1.jpg" class="image"><img src="../images/sol-peque/cadillac/c1.jpg" alt=""></a></article>
-						<article class="item thumb" data-width="232"><h2>The Pursuit</h2><a href="../images/sol-grande/cadillac/c2.jpg" class="image"><img src="../images/sol-peque/cadillac/c2.jpg" alt=""></a></article>
-						<article class="item thumb" data-width="352"><h2>Boundless</h2><a href="../images/sol-grande/cadillac/c3.jpg" class="image"><img src="../images/sol-peque/cadillac/c3.jpg" alt=""></a></article>
-						<article class="item thumb" data-width="348"><h2>The Spectators</h2><a href="../images/sol-grande/cadillac/c4.jpg" class="image"><img src="../images/sol-peque/cadillac/c4.jpg" alt=""></a></article>
-						<article class="item thumb" data-width="282"><h2>You really got me</h2><a href="../images/sol-grande/cadillac/c5.jpg" class="image"><img src="../images/sol-peque/cadillac/c5.jpg" alt=""></a></article>
-						<article class="item thumb" data-width="384"><h2>Ad Infinitum</h2><a href="../images/sol-grande/cadillac/c6.jpg" class="image"><img src="../images/sol-peque/cadillac/c6.jpg" alt=""></a></article>
-						<article class="item thumb" data-width="274"><h2>Different.</h2><a href="../images/sol-grande/cadillac/c7.jpg" class="image"><img src="../images/sol-peque/cadillac/c7.jpg" alt=""></a></article>
-						<article class="item thumb" data-width="282"><h2>Elysium</h2><a href="../images/sol-grande/cadillac/c8.jpg" class="image"><img src="../images/sol-peque/cadillac/c8.jpg" alt=""></a></article>
-
+						<article class="item thumb" data-width="232"><h2>Código: Sts052-black</h2><a href="../images/sol-grande/cadillac/c1.jpg" class="image"><img src="../images/sol-peque/cadillac/c1.jpg" alt=""></a></article>
+						<article class="item thumb" data-width="232"><h2>Código: Sts052-plum</h2><a href="../images/sol-grande/cadillac/c2.jpg" class="image"><img src="../images/sol-peque/cadillac/c2.jpg" alt=""></a></article>
+						<article class="item thumb" data-width="232"><h2>Código: Sts051-black</h2><a href="../images/sol-grande/cadillac/c3.jpg" class="image"><img src="../images/sol-peque/cadillac/c3.jpg" alt=""></a></article>
+						<article class="item thumb" data-width="232"><h2>Código: Sts050-black</h2><a href="../images/sol-grande/cadillac/c4.jpg" class="image"><img src="../images/sol-peque/cadillac/c4.jpg" alt=""></a></article>
+						<article class="item thumb" data-width="232"><h2>Código: Sts050-amber</h2><a href="../images/sol-grande/cadillac/c5.jpg" class="image"><img src="../images/sol-peque/cadillac/c5.jpg" alt=""></a></article>
+						<article class="item thumb" data-width="232"><h2>Código: Sts01-gm</h2><a href="../images/sol-grande/cadillac/c6.jpg" class="image"><img src="../images/sol-peque/cadillac/c6.jpg" alt=""></a></article>
+						<article class="item thumb" data-width="232"><h2>Código: Sts012-gr</h2><a href="../images/sol-grande/cadillac/c7.jpg" class="image"><img src="../images/sol-peque/cadillac/c7.jpg" alt=""></a></article>
+						<article class="item thumb" data-width="232"><h2>Código: Sts052</h2><a href="../images/sol-grande/cadillac/c8.jpg" class="image"><img src="../images/sol-peque/cadillac/c8.jpg" alt=""></a></article>
 				</div>
 			</div>
 
@@ -55,7 +54,7 @@
 						<li><a href="https://twitter.com/disbralentca" class="icon fa-twitter" target="_blank"><span class="label">Twitter</span></a></li>
 						<li><a href="https://www.instagram.com/disbralentca/" class="icon fa-instagram" target="_blank"><span class="label">Instagram</span></a></li>
 						<li><a href="https://www.facebook.com/DISBRALENT-CA-121695221186438/?fref=ts" class="icon fa-facebook" target="_blank"><span class="label">Facebook</span></a></li>
-						<li><a href="../contacto.php" class="icon fa-envelope" target="_blank"><span class="label">Email</span></a></li>
+						<li><a href="../../contacto.php" class="icon fa-envelope" target="_blank"><span class="label">Email</span></a></li>
 					</ul>
 					<ul class="copyright">
 						<li>Derechos reservados&copy; 2016</li><li>Diseñado por: <a href="#">E&I</a></li>

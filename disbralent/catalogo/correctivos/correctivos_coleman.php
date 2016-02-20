@@ -52,7 +52,7 @@
 						<li><a href="https://twitter.com/disbralentca" class="icon fa-twitter" target="_blank"><span class="label">Twitter</span></a></li>
 						<li><a href="https://www.instagram.com/disbralentca/" class="icon fa-instagram" target="_blank"><span class="label">Instagram</span></a></li>
 						<li><a href="https://www.facebook.com/DISBRALENT-CA-121695221186438/?fref=ts" class="icon fa-facebook" target="_blank"><span class="label">Facebook</span></a></li>
-						<li><a href="../contacto.php" class="icon fa-envelope" target="_blank"><span class="label">Email</span></a></li>
+						<li><a href="../../contacto.php" class="icon fa-envelope" target="_blank"><span class="label">Email</span></a></li>
 					</ul>
 					<ul class="copyright">
 						<li>Derechos reservados&copy; 2016</li><li>Diseñado por: <a href="#">E&I</a></li>

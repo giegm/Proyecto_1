@@ -33,19 +33,20 @@
 
 						
 					<!-- Filler Thumb Items (just for demonstration purposes) -->
-						<article class="item thumb" data-width="384"><h2>Código: CC16002BRN</h2><a href="../images/sol-grande/coleman/c1.jpg" class="image"><img src="../images/sol-peque/coleman/c1.jpg" alt=""></a></article>
-						<article class="item thumb" data-width="384"><h2>Código: CC16002RED</h2><a href="../images/sol-grande/coleman/c2.jpg" class="image"><img src="../images/sol-peque/coleman/c2.jpg" alt=""></a></article>
-						<article class="item thumb" data-width="384"><h2>Código: CC16002GREEN</h2><a href="../images/sol-grande/coleman/c3.jpg" class="image"><img src="../images/sol-peque/coleman/c3.jpg" alt=""></a></article>
-						<article class="item thumb" data-width="384"><h2>Código: CC16014TOR</h2><a href="../images/sol-grande/coleman/c4.jpg" class="image"><img src="../images/sol-peque/coleman/c4.jpg" alt=""></a></article>
-						<article class="item thumb" data-width="384"><h2>Código: CC2-6506C1</h2><a href="../images/sol-grande/coleman/c5.jpg" class="image"><img src="../images/sol-peque/coleman/c5.jpg" alt=""></a></article>
-						<article class="item thumb" data-width="384"><h2>Código: CC2-6506C3</h2><a href="../images/sol-grande/coleman/c6.jpg" class="image"><img src="../images/sol-peque/coleman/c6.jpg" alt=""></a></article>
-						<article class="item thumb" data-width="384"><h2>Código: CC26523C3</h2><a href="../images/sol-grande/coleman/c7.jpg" class="image"><img src="../images/sol-peque/coleman/c7.jpg" alt=""></a></article>
-						<article class="item thumb" data-width="384"><h2>Código: CC-26514C2</h2><a href="../images/sol-grande/coleman/c8.jpg" class="image"><img src="../images/sol-peque/coleman/c8.jpg" alt=""></a></article>
-						<article class="item thumb" data-width="384"><h2>Código: CC26521C3</h2><a href="../images/sol-grande/coleman/c9.jpg" class="image"><img src="../images/sol-peque/coleman/c9.jpg" alt=""></a></article>
-						<article class="item thumb" data-width="384"><h2>Código: CC26524C1</h2><a href="../images/sol-grande/coleman/c10.jpg" class="image"><img src="../images/sol-peque/coleman/c10.jpg" alt=""></a></article>
-						<article class="item thumb" data-width="384"><h2>Código: CC26523C2</h2><a href="../images/sol-grande/coleman/c11.jpg" class="image"><img src="../images/sol-peque/coleman/c11.jpg" alt=""></a></article>
-						<article class="item thumb" data-width="384"><h2>Código: CC26520C1</h2><a href="../images/sol-grande/coleman/c12.jpg" class="image"><img src="../images/sol-peque/coleman/c12.jpg" alt=""></a></article>
-						<article class="item thumb" data-width="384"><h2>Código: CC2-6514C3</h2><a href="../images/sol-grande/coleman/c13.jpg" class="image"><img src="../images/sol-peque/coleman/c13.jpg" alt=""></a></article>
+						<article class="item thumb" data-width="232"><h2>Código: CC1-6002</h2><a href="../images/sol-grande/coleman/c14.jpg" class="image"><img src="../images/sol-peque/coleman/c14.jpg" alt=""></a></article>
+						<article class="item thumb" data-width="384"><h2>Código: CC1-6002-BRN</h2><a href="../images/sol-grande/coleman/c1.jpg" class="image"><img src="../images/sol-peque/coleman/c1.jpg" alt=""></a></article>
+						<article class="item thumb" data-width="384"><h2>Código: CC1-6002-RED</h2><a href="../images/sol-grande/coleman/c2.jpg" class="image"><img src="../images/sol-peque/coleman/c2.jpg" alt=""></a></article>
+						<article class="item thumb" data-width="384"><h2>Código: CC1-6002-GREEN</h2><a href="../images/sol-grande/coleman/c3.jpg" class="image"><img src="../images/sol-peque/coleman/c3.jpg" alt=""></a></article>
+						<article class="item thumb" data-width="384"><h2>Código: CC1-6014-TOR</h2><a href="../images/sol-grande/coleman/c4.jpg" class="image"><img src="../images/sol-peque/coleman/c4.jpg" alt=""></a></article>
+						<article class="item thumb" data-width="384"><h2>Código: CC2-6506-C1</h2><a href="../images/sol-grande/coleman/c5.jpg" class="image"><img src="../images/sol-peque/coleman/c5.jpg" alt=""></a></article>
+						<article class="item thumb" data-width="384"><h2>Código: CC2-6506-C3</h2><a href="../images/sol-grande/coleman/c6.jpg" class="image"><img src="../images/sol-peque/coleman/c6.jpg" alt=""></a></article>
+						<article class="item thumb" data-width="384"><h2>Código: CC2-6523-C3</h2><a href="../images/sol-grande/coleman/c7.jpg" class="image"><img src="../images/sol-peque/coleman/c7.jpg" alt=""></a></article>
+						<article class="item thumb" data-width="384"><h2>Código: CC2-6514-C2</h2><a href="../images/sol-grande/coleman/c8.jpg" class="image"><img src="../images/sol-peque/coleman/c8.jpg" alt=""></a></article>
+						<article class="item thumb" data-width="384"><h2>Código: CC2-6521-C3</h2><a href="../images/sol-grande/coleman/c9.jpg" class="image"><img src="../images/sol-peque/coleman/c9.jpg" alt=""></a></article>
+						<article class="item thumb" data-width="384"><h2>Código: CC2-6524-C1</h2><a href="../images/sol-grande/coleman/c10.jpg" class="image"><img src="../images/sol-peque/coleman/c10.jpg" alt=""></a></article>
+						<article class="item thumb" data-width="384"><h2>Código: CC2-6523-C2</h2><a href="../images/sol-grande/coleman/c11.jpg" class="image"><img src="../images/sol-peque/coleman/c11.jpg" alt=""></a></article>
+						<article class="item thumb" data-width="384"><h2>Código: CC2-6520-C1</h2><a href="../images/sol-grande/coleman/c12.jpg" class="image"><img src="../images/sol-peque/coleman/c12.jpg" alt=""></a></article>
+						<article class="item thumb" data-width="384"><h2>Código: CC2-6514-C3</h2><a href="../images/sol-grande/coleman/c13.jpg" class="image"><img src="../images/sol-peque/coleman/c13.jpg" alt=""></a></article>
 
 				</div>
 			</div>
@@ -60,7 +61,7 @@
 						<li><a href="https://twitter.com/disbralentca" class="icon fa-twitter" target="_blank"><span class="label">Twitter</span></a></li>
 						<li><a href="https://www.instagram.com/disbralentca/" class="icon fa-instagram" target="_blank"><span class="label">Instagram</span></a></li>
 						<li><a href="https://www.facebook.com/DISBRALENT-CA-121695221186438/?fref=ts" class="icon fa-facebook" target="_blank"><span class="label">Facebook</span></a></li>
-						<li><a href="../contacto.php" class="icon fa-envelope" target="_blank"><span class="label">Email</span></a></li>
+						<li><a href="../../contacto.php" class="icon fa-envelope" target="_blank"><span class="label">Email</span></a></li>
 					</ul>
 					<ul class="copyright">
 						<li>Derechos reservados&copy; 2016</li><li>Diseñado por: <a href="#">E&I</a></li>

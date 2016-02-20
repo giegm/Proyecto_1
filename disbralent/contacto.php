@@ -10,7 +10,7 @@
 	<meta name="apple-mobile-web-app-capable" content="yes">
 	<meta name="apple-mobile-web-app-status-bar-style" content="black">
 	<link rel="stylesheet" href="css/formulario.css" />	
-	<link rel="shortcut icon" href="images/favicon.ico" />
+	<link rel="shortcut icon" href="images/iconos/favicon.ico" />
 	<script type="text/javascript" src="js/form.js"></script>
 
 	<!--[if lt IE 9]>
@@ -18,7 +18,7 @@
 	    	<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
 	<![endif]-->
 </head>
-<body>
+<body oncontextmenu="return false" onkeydown="return false">
 	<section>
 		<h2>Contacto</h2>
 		<form action="enviar-form.php" method="post" class="contact-form"  onsubmit="return validar(this);">				
@@ -48,6 +48,7 @@
 				<input class="btn btn-primary" type="submit" value="Enviar Mensaje"/>
 			</div>		
 		</form>
+		<br><a href="index.php"><img width="213" heigth="142" src="images/iconos/Disbralent-C-A-_44862.jpg" title="logo empresa"/></a>
 	</section>
 </body>
 </html>

@@ -1,5 +1,5 @@
 body {
-	background: #ffffff;
+	background: url(../images/fondo.jpg);
 	font: 14px/1.6 'Helvetica Neue', Helvetica, Arial, sans-serif;
 	color: #ff6138;
 }
@@ -74,11 +74,11 @@ textarea.form-input {
 	                                       color-stop(75%, #2f57b7), color-stop(75%, #bfd1E7),
 	                                       color-stop(85%, #bfd1E7), color-stop(85%, #ed5737),
 	                                       color-stop(95%, #ed5737), color-stop(95%, #bfd1E7));
-	background-image: -webkit-repeating-linear-gradient(135deg, #ed5737 0, #ed5737 50px, transparent 50px, transparent 80px, #2f57b7 80px, #2f57b7 130px, transparent 130px, transparent 160px);
-	background-image:    -moz-repeating-linear-gradient(135deg, #ed5737 0, #ed5737 50px, transparent 50px, transparent 80px, #2f57b7 80px, #2f57b7 130px, transparent 130px, transparent 160px);
-	background-image:     -ms-repeating-linear-gradient(135deg, #ed5737 0, #ed5737 50px, transparent 50px, transparent 80px, #2f57b7 80px, #2f57b7 130px, transparent 130px, transparent 160px);
-	background-image:      -o-repeating-linear-gradient(135deg, #ed5737 0, #ed5737 50px, transparent 50px, transparent 80px, #2f57b7 80px, #2f57b7 130px, transparent 130px, transparent 160px);
-	background-image:         repeating-linear-gradient(135deg, #ed5737 0, #ed5737 50px, transparent 50px, transparent 80px, #2f57b7 80px, #2f57b7 130px, transparent 130px, transparent 160px);
+	background-image: -webkit-repeating-linear-gradient(135deg, #ff6138 0, #ff6138 50px, #ff6138 50px, #2f57b7 80px, #2f57b7 80px, #2f57b7 130px, #2f57b7 130px, #ff6138 160px);
+	background-image:    -moz-repeating-linear-gradient(135deg, #ff6138 0, #ff6138 50px, #ff6138 50px, #2f57b7 80px, #2f57b7 80px, #2f57b7 130px, #2f57b7 130px, #ff6138 160px);
+	background-image:     -ms-repeating-linear-gradient(135deg, #ff6138 0, #ff6138 50px, #ff6138 50px, #2f57b7 80px, #2f57b7 80px, #2f57b7 130px, #2f57b7 130px, #ff6138 160px);
+	background-image:      -o-repeating-linear-gradient(135deg, #ff6138 0, #ff6138 50px, #ff6138 50px, #2f57b7 80px, #2f57b7 80px, #2f57b7 130px, #2f57b7 130px, #ff6138 160px);
+	background-image:         repeating-linear-gradient(135deg, #ff6138 0, #ff6138 50px, #ff6138 50px, #2f57b7 80px, #2f57b7 80px, #2f57b7 130px, #2f57b7 130px, #ff6138 160px);
 	-pie-background:          linear-gradient(135deg, 
 										   #bfd1E7 5%,  #ed5737 5%,
 	                                       #ed5737 15%, #bfd1E7 15%,
@@ -97,7 +97,7 @@ textarea.form-input {
 .formulario {
 	overflow: hidden;
 	padding: 40px 20px;
-	background-color: #fff;
+	background: url(../images/fondo.jpg);
 }
 .column:first-of-type {
 	float: left;

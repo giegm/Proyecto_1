@@ -58,7 +58,7 @@
 		</script>
 		<!----//End-top-nav-script---->
 	</head>
-	<body> <!--oncontextmenu="return false" onkeydown="return false"> Codigo para bloquear el boton de click derecho.-->
+	<body oncontextmenu="return false" onkeydown="return false">
 		<div class="bg">
 		<!----- start-header---->
 		<div class="container">
@@ -151,13 +151,17 @@
 				</div>
 				<div class="container">
 					<div class="process-grids text-center wow bounce" data-wow-delay="0.4s">
-						<div class="col-md-6 wow bounceInUp" data-wow-delay="0.4s">														
-							<img src="images/optica_lamarron.png" style="align:center;"/>
-							<h4> Esquina La Marrón, Centro Doral, Mezzanina, Local M-7, Caracas.</h4>
+						<div class="col-md-6 wow bounceInUp" data-wow-delay="0.4s">
+							<h2>OPTICA LA MARRÓN</h2>													
+							<img src="images/optica_lamarron2.png" style="align:center;"/>
+							<h4>Esquina La Marrón, Edif. Centro Doral, Mezzanina, Local M-7, Caracas.</h4>
+							<h4>Telf.: (0212)-564.46.67</h4>
 						</div>
-						<div class="col-md-6 wow bounceInDown" data-wow-delay="0.4s">							
-							<img src="images/optileader.png" style="align:center;"/>
-							<h4>Esquina de Salas, Avenida Norte 4, Caracas. Distrito Capital.</h4>
+						<div class="col-md-6 wow bounceInDown" data-wow-delay="0.4s">
+							<h2>ORGANIZACIÓN OPTILEADER</h2>						
+							<img src="images/optileader2.png" style="align:center;"/>
+							<h4>Av. Oeste 5, Esquina de Salas a Balconcito,Edif. Saba, PB, Local 2, Caracas.</h4>
+							<h4>Telf.: (0212)-862.17.10</h4>
 						</div>
 						<div class="clearfix"> </div>
 					</div>
@@ -191,11 +195,10 @@
 					</div>
 					<div class="col-md-3 wow bounceIn" data-wow-delay="0.4s">
 						<div class="top-grid">
-							<img class="p-img" src="images/bb3.jpg" />
-							<h3><a href="#">Financiamiento para Ti</a></h3>
+							<img class="p-img" src="images/bb5.jpg" />
+							<h3><a href="#">Jornadas</a></h3>
 							<label> </label>
-							<p>DISBRALENT le ofrece a todos sus clientes el servicio de pago financiado de sus lentes.
-							Con la compra de tus lentes cancelas el 50% de inicial y 3 cuotas iguales consecutivas.</p>
+							<p>DISBRALENT ofrece un servicio de operativos de atención visual para tu empresa. Contáctanos.</p>
 						</div>
 					</div>
 					<div class="col-md-3 wow bounceIn" data-wow-delay="0.4s">
@@ -206,19 +209,6 @@
 							<p>Distribuidores al mayor y detal de exhibidores, miscelaneas, pinzas para ópticas, entre otros.</p>
 						</div>
 					</div>
-					<div class="clearfix"> </div>
-				</div>
-				<div class="container">
-					<div class="col-md-12 wow bounceIn" data-wow-delay="0.4s">
-						<div class="top-grid">
-							<img class="p-img" src="images/bb5.jpg" />
-							<h3><a href="#">Jornadas</a></h3>
-							<label> </label>
-							<p>DISBRALENT ofrece un servicio</p>
-							<p>de operativos de atención visual</p>
-							<P>para tu empresa. Contáctanos.</p>
-						</div>
-					</div>								
 					<div class="clearfix"> </div>
 				</div>
 			</div>
@@ -351,7 +341,7 @@
 												</div>
 												<div class="col-md-4 img-top ">
 												   <a data-toggle="modal" data-target=".bs-example-modal-md" href="catalogo/sol/sol_daisyfuentes.php" class="b-link-stripe b-animate-go  thickbox">
-													 <img class="p-img" src="images/marcas/daisy_fuentes.jpg" /><div class="b-wrapper">
+													 <img class="p-img" src="images/marcas/sunglasses/daisyF_muestra.jpg" /><div class="b-wrapper">
 														<h2 class="b-animate b-from-left    b-delay03 ">
 															<div class="caption">
 															<h4>Daisy Fuentes</h4>
@@ -383,8 +373,8 @@
 												</div></a>
 												</div>
 												<div class="col-md-4 img-top ">
-												  <a data-toggle="modal" data-target=".bs-example-modal-md" href="catalogo/sol/sol_daisyfuentes.php" class="b-link-stripe b-animate-go  thickbox">
-													 <img class="p-img" src="images/marcas/sunglasses/daisyF_muestra.jpg" /><div class="b-wrapper">
+												  <a data-toggle="modal" data-target=".bs-example-modal-md" href="catalogo/sol/sol_retro.php" class="b-link-stripe b-animate-go  thickbox">
+													 <img class="p-img" src="images/marcas/retro.jpg" /><div class="b-wrapper">
 														<h2 class="b-animate b-from-left    b-delay03 ">
 															<div class="caption">
 															<h4>Daisy Fuentes</h4>
@@ -427,11 +417,11 @@
 													</div></a>
 												</div>
 												<div class="col-md-4 img-top ">
-												   <a data-toggle="modal" data-target=".bs-example-modal-md" href="catalogo/sol/sol_coleman.php" class="b-link-stripe b-animate-go  thickbox">
-													 <img class="p-img" src="images/marcas/coleman.jpg" /><div class="b-wrapper">
+												   <a data-toggle="modal" data-target=".bs-example-modal-md" href="catalogo/sol/sol_otras.php" class="b-link-stripe b-animate-go  thickbox">
+													 <img class="p-img" src="images/marcas/etc.jpg" /><div class="b-wrapper">
 														<h2 class="b-animate b-from-left    b-delay03 ">
 															<div class="caption">
-															<h4>Coleman</h4>
+															<h4>Otras Marcas</h4>
 															<p>Para ver el catálogo presione click.</p>
 														</div>
 														</h2>
@@ -837,7 +827,7 @@
 					                <div class="item wow zoomIn" data-wow-delay="0.3s">
 					                	<img class="lazyOwl" data-src="images/team-member2.png" alt="name">
 					                	<h5><span>Edward</span> Valiente</h5>
-					                	<label>Presidente</label>
+					                	<label>Gerente General</label>
 					                </div>
 					                <div class="item wow zoomIn" data-wow-delay="0.3s">
 					                	<img class="lazyOwl" data-src="images/team-member1.png" alt="name">

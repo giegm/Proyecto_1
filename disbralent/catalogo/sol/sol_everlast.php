@@ -29,57 +29,10 @@
 							</div>
 						</div>
 
-					<!-- Thumb Items -->
-
-						<article class="item thumb" data-width="282">
-							<h2>You really got me</h2>
-							<a href="../images/fulls/01.jpg" class="image"><img src="../images/thumbs/01.jpg" alt=""></a>
-						</article>
-
-						<article class="item thumb" data-width="384">
-							<h2>Ad Infinitum</h2>
-							<a href="../images/fulls/02.jpg" class="image"><img src="../images/thumbs/02.jpg" alt=""></a>
-						</article>
-
-						<article class="item thumb" data-width="274">
-							<h2>Different.</h2>
-							<a href="../images/fulls/03.jpg" class="image"><img src="../images/thumbs/03.jpg" alt=""></a>
-						</article>
-
-						<article class="item thumb" data-width="282">
-							<h2>Elysium</h2>
-							<a href="../images/fulls/04.jpg" class="image"><img src="../images/thumbs/04.jpg" alt=""></a>
-						</article>
-
-						<article class="item thumb" data-width="476">
-							<h2>Kingdom of the Wind</h2>
-							<a href="../images/fulls/05.jpg" class="image"><img src="../images/thumbs/05.jpg" alt=""></a>
-						</article>
-
-						<article class="item thumb" data-width="232">
-							<h2>The Pursuit</h2>
-							<a href="../images/fulls/06.jpg" class="image"><img src="../images/thumbs/06.jpg" alt=""></a>
-						</article>
-
-						<article class="item thumb" data-width="352">
-							<h2>Boundless</h2>
-							<a href="../images/fulls/07.jpg" class="image"><img src="../images/thumbs/07.jpg" alt=""></a>
-						</article>
-
-						<article class="item thumb" data-width="348">
-							<h2>The Spectators</h2>
-							<a href="../images/fulls/08.jpg" class="image"><img src="../images/thumbs/08.jpg" alt=""></a>
-						</article>
-
 					<!-- Filler Thumb Items (just for demonstration purposes) -->
-						<article class="item thumb" data-width="476"><h2>Kingdom of the Wind</h2><a href="../images/fulls/05.jpg" class="image"><img src="../images/thumbs/05.jpg" alt=""></a></article>
-						<article class="item thumb" data-width="232"><h2>The Pursuit</h2><a href="../images/fulls/06.jpg" class="image"><img src="../images/thumbs/06.jpg" alt=""></a></article>
-						<article class="item thumb" data-width="352"><h2>Boundless</h2><a href="../images/fulls/07.jpg" class="image"><img src="../images/thumbs/07.jpg" alt=""></a></article>
-						<article class="item thumb" data-width="348"><h2>The Spectators</h2><a href="../images/fulls/08.jpg" class="image"><img src="../images/thumbs/08.jpg" alt=""></a></article>
-						<article class="item thumb" data-width="282"><h2>You really got me</h2><a href="../images/fulls/01.jpg" class="image"><img src="../images/thumbs/01.jpg" alt=""></a></article>
-						<article class="item thumb" data-width="384"><h2>Ad Infinitum</h2><a href="../images/fulls/02.jpg" class="image"><img src="../images/thumbs/02.jpg" alt=""></a></article>
-						<article class="item thumb" data-width="274"><h2>Different.</h2><a href="../images/fulls/03.jpg" class="image"><img src="../images/thumbs/03.jpg" alt=""></a></article>
-						<article class="item thumb" data-width="282"><h2>Elysium</h2><a href="../images/fulls/04.jpg" class="image"><img src="../images/thumbs/04.jpg" alt=""></a></article>
+						<article class="item thumb" data-width="232"><h2>Código: Ev110</h2><a href="../images/sol-grande/everlast/e1.jpg" class="image"><img src="../images/sol-peque/everlast/e1.jpg" alt=""></a></article>
+						<article class="item thumb" data-width="232"><h2>Código: Evs104</h2><a href="../images/sol-grande/everlast/e2.jpg" class="image"><img src="../images/sol-peque/everlast/e2.jpg" alt=""></a></article>
+						<article class="item thumb" data-width="232"><h2>Código: Evs112</h2><a href="../images/sol-grande/everlast/e3.jpg" class="image"><img src="../images/sol-peque/everlast/e3.jpg" alt=""></a></article>
 
 				</div>
 			</div>
@@ -94,7 +47,7 @@
 						<li><a href="https://twitter.com/disbralentca" class="icon fa-twitter" target="_blank"><span class="label">Twitter</span></a></li>
 						<li><a href="https://www.instagram.com/disbralentca/" class="icon fa-instagram" target="_blank"><span class="label">Instagram</span></a></li>
 						<li><a href="https://www.facebook.com/DISBRALENT-CA-121695221186438/?fref=ts" class="icon fa-facebook" target="_blank"><span class="label">Facebook</span></a></li>
-						<li><a href="../contacto.php" class="icon fa-envelope" target="_blank"><span class="label">Email</span></a></li>
+						<li><a href="../../contacto.php" class="icon fa-envelope" target="_blank"><span class="label">Email</span></a></li>
 					</ul>
 					<ul class="copyright">
 						<li>Derechos reservados&copy; 2016</li><li>Diseñado por: <a href="#">E&I</a></li>

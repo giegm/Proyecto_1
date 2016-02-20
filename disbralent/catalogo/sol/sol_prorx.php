@@ -23,7 +23,7 @@
 
 						<div id="header" class="item" data-width="400">
 							<div class="inner">
-								<h1>proRx</h1>
+								<h1>ProRx</h1>
 								<p>A responsive portfolio site<br />
 								template by HTML5 UP</p>
 							</div>
@@ -35,7 +35,10 @@
 					<!-- Filler Thumb Items (just for demonstration purposes) -->
 						<article class="item thumb" data-width="384"><h2>PROSWITCHRED</h2><a href="../images/sol-grande/pr/pr1.jpg" class="image"><img src="../images/sol-peque/pr/pr1.jpg" alt=""></a></article>
 						<article class="item thumb" data-width="384"><h2>PROVIPERBLK</h2><a href="../images/sol-grande/pr/pr2.jpg" class="image"><img src="../images/sol-peque/pr/pr2.jpg" alt=""></a></article>
-						
+						<article class="item thumb" data-width="232"><h2>PRO freestyle silver</h2><a href="../images/sol-grande/pr/pr3.jpg" class="image"><img src="../images/sol-peque/pr/pr3.jpg" alt=""></a></article>
+						<article class="item thumb" data-width="232"><h2>PRO ride black</h2><a href="../images/sol-grande/pr/pr4.jpg" class="image"><img src="../images/sol-peque/pr/pr4.jpg" alt=""></a></article>
+						<article class="item thumb" data-width="232"><h2>PRORX</h2><a href="../images/sol-grande/pr/pr.jpg" class="image"><img src="../images/sol-peque/pr/pr.jpg" alt=""></a></article>
+
 				</div>
 			</div>
 
@@ -49,7 +52,7 @@
 						<li><a href="https://twitter.com/disbralentca" class="icon fa-twitter" target="_blank"><span class="label">Twitter</span></a></li>
 						<li><a href="https://www.instagram.com/disbralentca/" class="icon fa-instagram" target="_blank"><span class="label">Instagram</span></a></li>
 						<li><a href="https://www.facebook.com/DISBRALENT-CA-121695221186438/?fref=ts" class="icon fa-facebook" target="_blank"><span class="label">Facebook</span></a></li>
-						<li><a href="../contacto.php" class="icon fa-envelope" target="_blank"><span class="label">Email</span></a></li>
+						<li><a href="../../contacto.php" class="icon fa-envelope" target="_blank"><span class="label">Email</span></a></li>
 					</ul>
 					<ul class="copyright">
 						<li>Derechos reservados&copy; 2016</li><li>Diseñado por: <a href="#">E&I</a></li>

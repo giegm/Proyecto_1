@@ -1,0 +1,4 @@
+RewriteEngine on
+RewriteCond %{HTTP_HOST} ^(disbralentca\.com\.ve)(:80)? [NC]
+RewriteRule ^(.*) http://www.disbralentca.com.ve/$1 [R=301,L]
+
